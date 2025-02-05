@@ -901,6 +901,20 @@ $$F_G = F_2$$
 $$m g = F_1 \frac {S_2} {S_1} = F_1 \frac {\frac {\pi} {4} d_{2}^{2}} {\frac {\pi} {4} d_{1}^{2}}$$
 $$F_1 = m g \frac {d_{1}^{2}} {d_{2}^{2}} = 200 \cdot 10 \cdot \frac {3^2} {15^2} = 80 \space N$$
 
+## Tlak v kapalinách vyvolaný tíhovou silou
+
+V libovolné kapalině v tíhovém poli vzniká v kapalinách hydrostatická tlaková síla $\vec{F_h}$, kterou kapalina působí na dno, na stěny nádoby a na ponořená tělesa. Velikost hydrostatické tlakové síly, kterou kapalina působí v hloubce $h$ na dno nádoby o obsahu $S$:
+
+$$F_h = m g = \rho S h g$$
+
+Velikost síly je nezávislá na tvaru nádoby, pokud jsou její hrany svislé, reakce stěn na tlak se vyruší a tlak je roven tíhové síle; pokud stěny nejsou rovnoběžné, reakce stěny na tlak se sečtou a výslednice bude kolmá ke dnu, u nádoby s větším hrdlem, budou tíhovou sílu odlehčovat; u nádoby s menším hrdlem, se k ní budou přičítat. Viz hyrostatické paradoxon.
+
+Hydrostatická tlaková síla vyvolává na ploše, na níž působí, hydrostatický tlak $p_h$:
+
+$$p_h = \rho lh g$$
+
+## Příklady
+
 ### 1-7
 
 Jak velká hydrostatická tlaková síla působí na dno vodní nádrže v hloubce 4 m, je-li obsah dna 50 m2? Jaký je v této hloubce hydrostatický tlak? [2 000 kN, 40 kPa]

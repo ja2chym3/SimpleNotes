@@ -307,3 +307,15 @@ Antarktida je téměř neosídlena, pouze polární vědecké výzkumné stanice
 # Afrika
 
 Původně název římské kolonie, později se název přenesl na celý kontinent. Afrika byla poslední kontinent, který Evropský kolonialismus dobyl, byť byla blízko. Dlouho byl ve sféře vlivu jen Maghreb a pobřeží. Afrriku chránily pouště, hory, horké a vlhké klima. Afrika má rozlohu 30 mil. $km^2$, tj. třikrát větší než Evropa, pobřeží je mnohem kratší, zhruba třikrát, to ovlivnily kontinentální desky, to, že Afrika nikdy nebyla celá pokrytá ledovcem. Velká část Afr leží na severní polokouli, menší na jižní, většina pak na východní, podstatná část na Západní. Nejvyšší bod je Kilimanjaro, nejníže je Assálská prolálkina (-155 mnm.)
+
+## Povrch Afriky
+
+Afrika se nachází z velké části na Africké desce a od ní se pohybující Somálská deska. Na severu se pohybuje konvergentně k Eurasijské desce, což vyzvedlo Alpy a Atlas, dále sousedí na severovýchodě Arabská deska. Geograficky nejaktivnější je oblast Východoafrické vysočiny s Kilimandžárem a o trochu nižší Etiopská vysočina. Dále jsou vysoké Dračí hory a Atlas, kde jsou dokonce menší lyžařská střediska. Ve středu severní Afriky jsou pak velmi stará prvohorní a větrem rozvrásněná vulkanická pohoří. V Africe je také několik pánví, zejména Čadská a Konžská, které dříve byly celé zaplněné vodou, dnes v nich jsou jen jezera.
+
+### Pouště Afriky
+
+Největší je poušť Sahara tvořná pouštěmi Uarán (Mauritánie), el-Džuf  (hranice Mali a Mauritánie), Téméré (Čad), Libyjská, Velká písečná (Z Egypt), Arabská (V Egypt) a Núbijská (SV Sudán), dále ergy Igidi, Šeš, Velký východní a Velký západní erg a další. Podstatné pouště jsou i na jihu, Namibská poušť a Kalahari. Namibské pobřeží je pokryté mlhou, studený proud.
+
+## Vodstvo Afriky
+
+Největšími řekami v Africe jsou nejdelší Nil (1) a nejvodnatější Kongo (8), dále Šebelle (2),  Modrý Nil (3), Senegal (4), Niger (5), Šari (6), Zambezi (9), Orange (10). Ve velké části kontinentu je mnoho vody, jinde je však podnebí suché, nejextrémější je pak poušť Sahara, na jihu pak Namibie. V Africe je také mnoho velkých i malých jezer, jako jsou Viktoriino j. (11), bezodtoké Čadské j. (7), Edvardovo j. (12) a j. Malawi (13) či vodopádů (Viktoriiny vodopády). 
