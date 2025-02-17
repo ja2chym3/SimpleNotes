@@ -10,6 +10,7 @@
 === ZSV ===
 ===========
 
+└──  Úvod Sociologie
 
 
 
@@ -40,6 +41,12 @@
 ├──  Antarktida
 │   └──  Opakování
 └──  Afrika
+    ├──  Povrch Afriky
+    │   └──  Pouště Afriky
+    ├──  Vodstvo Afriky
+    ├──  Podnebí Afriky
+    ├──  Vegetační pásma
+    └──  Biomy Afriky
 
 
 
@@ -132,7 +139,14 @@
 │   │   ├──  Alastor čili Duch samoty (1816)
 │   │   └──  Odpoutaný Prometheus (1820)
 │   └──  Walter Scott (1771 – 1832)
-├──  !DO vlož @HANKA
+│       ├──  WAVERLEY
+│       ├──  SRDCE EDINBURGU
+│       ├──  IVANHOE
+│       ├──  QUENTIN DURWARD
+│       ├──  ROB ROY
+│       ├──  NEVĚSTA Z LAMMERMOORU
+│       ├──  ŽELEZNÁ PĚST
+│       └──  KENILWORTH
 ├──  Německý romantismus
 │   ├──  Novalis (1772 – 1801)
 │   │   ├──  Heinrich z Ofterdingen - Modrá květina
@@ -191,11 +205,14 @@
 │   └──  Josefán Kajetán Tyl, milíáček národa (1808 – 1856)
 │       └──  Fidlovačka aneb žádný hněv a žádná...
 └──  !TODO Hani
-    └──  Karel Havlíček Borovský (1821 -- 1856)
-        ├──  Král Lávra
-        ├──  Křest sv. Vladimíra
-        ├──  Epigramy
-        └──  Tyrolská elegie (1852)
+    ├──  Karel Havlíček Borovský (1821 -- 1856)
+    │   ├──  Král Lávra
+    │   ├──  Křest sv. Vladimíra
+    │   ├──  Epigramy
+    │   └──  Tyrolská elegie (1852)
+    └──  Karel Jaromír Erben (1811 -- 1870)
+        ├──  Prostonárodní české písně a říkadla
+        └──  České pohádky (1905)
 
 
 
@@ -323,13 +340,15 @@
     ├──  Veličiny
     │   ├──  Povrchové napětí $\sigma = \frac{F}{l}$ ; $[ \sigma ] = N \cdot m ^{-1}$
     │   └──  Tlak $p = \frac {F} {S}$ ; $[ p ] = Pa = N \cdot m^{-2}$
+    ├──  Příklady
+    │   ├──  1-1
+    │   ├──  1-2
+    │   ├──  1-3
+    │   ├──  1-4
+    │   ├──  1-5
+    │   └──  1-6
+    ├──  Tlak v kapalinách vyvolaný tíhovou silou
     └──  Příklady
-        ├──  1-1
-        ├──  1-2
-        ├──  1-3
-        ├──  1-4
-        ├──  1-5
-        ├──  1-6
         ├──  1-7
         ├──  1-8
         ├──  1-9
@@ -432,22 +451,31 @@
 │   ├──  Galvanický článek
 │   ├──  Palivové články
 │   └──  Koroze
-└──  Významné kovy p-prvků
-    ├──  14. skupina (tetrely, prvky $p^2$)
-    ├──  Cín, 50Sn
-    │   ├──  Výskyt v přírodě:
-    │   ├──  Vlastnosti:
-    │   ├──  Výroba:
-    │   ├──  Využití:
-    │   └──  Sloučeniny:
-    ├──  Olovo, $\ce{_{82}Pb}$
-    │   ├──  Výskyt v přírodě
-    │   ├──  Vlastnosti
-    │   ├──  Výroba
-    │   ├──  Využití:
-    │   └──  Sloučeniny
-    ├──  13. skupina (triely, prvky $p^1$)
-    └──  Hliník, $\ce{_{13}Al}$
+├──  Významné kovy p-prvků
+│   ├──  14. skupina (tetrely, prvky $p^2$)
+│   ├──  Cín, 50Sn
+│   │   ├──  Výskyt v přírodě:
+│   │   ├──  Vlastnosti:
+│   │   ├──  Výroba:
+│   │   ├──  Využití:
+│   │   └──  Sloučeniny:
+│   ├──  Olovo, $\ce{_{82}Pb}$
+│   │   ├──  Výskyt v přírodě
+│   │   ├──  Vlastnosti
+│   │   ├──  Výroba
+│   │   ├──  Využití:
+│   │   └──  Sloučeniny
+│   ├──  13. skupina (triely, prvky $p^1$)
+│   └──  Hliník, $\ce{_{13}Al}$
+│       ├──  Výskyt v přírodě
+│       ├──  Vlastnosti
+│       ├──  Výroba
+│       ├──  Využití
+│       └──  Sloučeniny
+├──  s-prvky
+│   └──  Charakteristika
+└──  Alkalické kovy
+    └──  Charakteristika
         ├──  Výskyt v přírodě
         ├──  Vlastnosti
         ├──  Výroba

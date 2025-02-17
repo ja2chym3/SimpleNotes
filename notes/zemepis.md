@@ -318,4 +318,21 @@ Největší je poušť Sahara tvořná pouštěmi Uarán (Mauritánie), el-Džuf
 
 ## Vodstvo Afriky
 
-Největšími řekami v Africe jsou nejdelší Nil (1) a nejvodnatější Kongo (8), dále Šebelle (2),  Modrý Nil (3), Senegal (4), Niger (5), Šari (6), Zambezi (9), Orange (10). Ve velké části kontinentu je mnoho vody, jinde je však podnebí suché, nejextrémější je pak poušť Sahara, na jihu pak Namibie. V Africe je také mnoho velkých i malých jezer, jako jsou Viktoriino j. (11), bezodtoké Čadské j. (7), Edvardovo j. (12) a j. Malawi (13) či vodopádů (Viktoriiny vodopády). 
+Největšími řekami v Africe jsou nejdelší Nil (1) a nejvodnatější Kongo (8), dále Šebelle (2),  Modrý Nil (3), Senegal (4), Niger (5), Šari (6), Zambezi (9), Orange (10). Ve velké části kontinentu je mnoho vody, jinde je však podnebí suché, nejextrémější je pak poušť Sahara, na jihu pak Namibie. V Africe je také mnoho velkých i malých jezer, jako jsou Viktoriino j. (11), bezodtoké Čadské j. !DO Tanganika (12) a j. Malawi (13) či vodopádů (Viktoriiny vodopády). 
+
+## Podnebí Afriky
+
+Afrika se nachází mezi subtropickými pásy, marginálně až mírnými (např. na horách v etrémech Csa). Kromě nejvyšších hor je teplota celoročně vysoká. Na úplném severu Afriky je středozemní podnebí s dlouhými, horkými, suchými léty, mírnou, deštivou zimou.
+Dále od pobřeží jsou suché subtropy, přes které vane severovýchodní suchý antipasát.
+Ve Středu se nachází tropický pás.
+
+## Vegetační pásma
+
+Na úplném severu, při pobřeží a na horách se nachází v subtropických až mírných podnebích vegetace středomořského typu, táž vegetace se bude nacházet také na jižním extrému, klima je mírně, se suchými léty a velmi horkými léty.
+Pouště se nachází ve velmi aridních a (až na vrcholky hor) horkých podnebích. Polopouště tyto pouěte obkloupují.
+Savany a suché stepy obkopují rovníkový pás v střídavé vlhkém tropickém pásu.
+V rovníkovém pásu se nachází tropický deštný les.
+
+## Biomy Afriky
+
+-

@@ -628,7 +628,7 @@ $\ce {KOH + HCl -> KCl + H2O}$.
 - Oxidy jsou nestálé a velmi reaktivní, nejstálejší je $\ce {I2O5}$. S vodou tvoří příslušnou kyselinu oxidy chloru
 $\ce {Cl2O, ClO2, Cl2O6, Cl2O7}$
 - Oxokyseliny (kyslíkaté kyseliny):
-	- $\ce {HClO}$ (kyselina chlorná) vzniká reakcí $\ce {Cl2 + H2O → HClO + HCl}$, velmi slabá a nestálá kyselina, silné oxidační činidlo, tvoří soli chlornany
+	- $\ce {HClO}$ (kyselina chlorná) vzniká reakcí $\ce {Cl2 + H2O -> HClO + HCl}$, velmi slabá a nestálá kyselina, silné oxidační činidlo, tvoří soli chlornany
 	- $\ce {HClO3}$ (kyselina chlorečná) je silná, nestálá kyselina, silné oxidační účinky, tvoří soli chlorečnany
 	- $\ce {HClO4}$ (kyselina chloristá) je velmi silná kyselina, tvoří soli chloristany
 	- $\ce {HIO3}$ (kyselina jodičná) je pevná látka, dobře rozpustná ve vodě, tvoří soli jodičnany
@@ -737,7 +737,7 @@ $\ce {2 ZnS + 3 O2 -> 2 ZnO + 2 SO2}$
 	- Oxid siřičitý $\ce {SO2}$ je
 		- jedovatý, bezbarvý plyn, dráždí dýchací cesty, sliznici a je snadno zkapalnitelný.
 		- Vzniká spalováním síry:
-$\ce {S + O2 → SO2}$
+$\ce {S + O2 -> SO2}$
 případně paliv síru obsahujících (hlavně v tepelné elektrárně, což vede k jeho úniku do ovzduší, kde se podílí na tvorbě kyselých dešťů).
 		- Vyrábí se pražením sulfidů.
 		- Má redukční účinky:
@@ -749,7 +749,7 @@ $\ce {SO2 + C -> S + CO2}$
 		- Je oxidačním činidlem, je silně hygroskopický (pohlcuje vzdušnou vlhkost, se kterou ochotně reaguje za tvorby kyseliny sírové)
 		- Vyrábí se oxidací oxidu siřičitého: 
 $\ce {2 SO2 + O2 -> 2 SO3}$
-		(tato reakce probíhá také v atmosféře, kde následně vzniká kyselina sírová → kyselé deště)
+		(tato reakce probíhá také v atmosféře, kde následně vzniká kyselina sírová -> kyselé deště)
 		- Připravuje se termickým rozkladem některých síranů:
 $\ce {Fe2(SO4)3 -> Fe2O3 + 3 SO3}$
 
@@ -766,7 +766,7 @@ $\ce {2 Na2SO3 + O2 -> 2 Na2SO4}$
 		-  Nereaguje s kovy jako je olovo (na jeho povrchu tvoří vrstvu $\ce {PbSO4}$), železo ($\ce {FeSO4}$), zlato a platina, naopak ale reaguje s mědí:
 $\ce {Cu + 2 H2SO4 -> CuSO4 + SO2 + 2 H2O}$
 		- Zředěná se chová jako silná kyselina, ztrácí ale oxidační účinky a reaguje pouze s neušlechtilými kovy:
-$\ce {Fe + 2 H2SO4 → FeSO4 + H2}$
+$\ce {Fe + 2 H2SO4 -> FeSO4 + H2}$
 		- Výroba nejčastěji kontaktním způsobem, kroky:
 			1. výroba $\ce {SO2}$ (spalováním síry nebo pražením sulfidů)
 			2. oxidace: $\ce {2 SO2 + O2 -> 2 SO3}$
@@ -850,7 +850,7 @@ $\ce {AgNO2 + HCl -> HNO2 + AgCl}$
 		-  *Au*, *Pt*, *Rh*, *Ir*, *Nb*, *Ta*, které reagují jen s lučavkou královskou ($\ce {HNO3}$ s $\ce {HCl}$ v poměru 1:3)
 		-  *Fe*, *Cr* a *Al* reagují pouze se zředěnou kyselinou dusičnou, jelikož v koncentrované se pasivují (tvoří vrstvu látky (často oxidu zde však dusičnanu!), která brání další reakci)
 		-  Způsobuje žloutnutí bílkovin.
-		-  Připravuje se rozkladem dusičnanu sodného kyselinou sírovou: $\ce {NaNO3 + H2SO4 → NaHSO4 + HNO3}$
+		-  Připravuje se rozkladem dusičnanu sodného kyselinou sírovou: $\ce {NaNO3 + H2SO4 -> NaHSO4 + HNO3}$
 		-   Průmyslově se vyrábí nepřímou katalytickou oxidací amoniaku:
 			1. syntéza amoniaku: $\ce {N2 + H2 -> 2 NH3}$
 			2. jeho oxidace: $\ce {4 NH3 + 5 O2 -> 4 NO + 6 H2O}$
@@ -1021,7 +1021,7 @@ Siderit (FeCO3)
 	- Bezbarvá jedovatá kapalina, nerozpustná ve vodě
 	- Nepolární rozpouštědlo
 	- Vzniká přímou syntézou za zvýšené teploty
-$\ce {C + 2 S → CS2}$
+$\ce {C + 2 S -> CS2}$
 
 - Kyanovodík $\ce {HCN}$
 	- Bezbarvá kapalina, rozpustná ve vodě
@@ -1223,7 +1223,7 @@ Peroxyhydrát boritanu sodného
 - Boridy jsou sloučeniny boru s kovem, vodivé, tvrdé a žáruvzdorné látky
 - Borany jsou sloučeniny boru s vodíkem, jsou velmi reaktivní a samozápalné:
 	- Diboran $\ce {B2H6}$, je čtyřvazný, elektrony jsou ve vazbě delokalizované mezi více atomy boru (elektronově deficitní vazba).
-- Oxidy např. oxid boritý $\ce {B2O3}$ je bezbarvý, tvoří sklovitou látku, vzniká hořením boru: $\ce {4 B + 3 O2 -> 2 B2O3}$, s vodou tvoří kyselinu: $\ce {B2O3 + 3 H2O → 2 H3BO3}$
+- Oxidy např. oxid boritý $\ce {B2O3}$ je bezbarvý, tvoří sklovitou látku, vzniká hořením boru: $\ce {4 B + 3 O2 -> 2 B2O3}$, s vodou tvoří kyselinu: $\ce {B2O3 + 3 H2O -> 2 H3BO3}$
 - Kyseliny např. kyselina boritá $\ce {H3BO3}$ je bílá krystalická látka, špatně rozpustná ve vodě, její vodný roztok označujeme jako borovou vodu (slabá kyselina s antiseptickými a baktericidními účinky, jež užívá oční lékařství), také má fungicidní účinky a je to konzervant E 284.
 - Boritany: soli kyseliny borité, strukturou se podobají křemičitanům, ve vodě jsou rozpustné jen ty alkalické, řadíme mezi ně i borax
 
@@ -1304,7 +1304,7 @@ průchodu stejnosměrného elektrického proudu Vysvětlení pojmů spojených s
 
 ### Příklad elektrolýzy (tavenina NaCl)
 Katoda (- redukce): $\ce {2 Na+ + 2 e- -> 2 Na}$
-Anoda (+ oxidace): $\ce {2 Cl- - 2 e- → Cl2}$
+Anoda (+ oxidace): $\ce {2 Cl- - 2 e- -> Cl2}$
 
 ### Využití elektrolýzy
 
@@ -1479,142 +1479,109 @@ minerál), je možné ho připravit spalováním hliníku, je nerozpustný ve vo
 - Soli hlinité: dobře rozpustné ve vodě, jsou odvozené od silných kyselin, často tvoří také
 kamence (např. kamenec draselno-hlinitý $\ce{KAl(SO4)2 · 12 H2O).}$
 
-s-prvky
+# s-prvky
 
-Charakteristika:
-• Řadíme sem alkalické kovy (1. skupina s výjimkou H), Be, Mg a kovy alkalických zemin
-(2. skupina počínaje Ca).
-• Jedná se o typické kovy s nízkou ionizační energií a velkým atomovým poloměrem (snadno
-tvoří kationty).
-• Jsou velmi reaktivní a jedná se o silná redukční činidla.
-• V přírodě jsou pouze vázané ve sloučeninách (jako kationty).
-• Typické je pro ně barvení plamene (jedná se o deexcitaci a důkaz používaný v analytické
-chemii – plamenová zkouška): Li+
+## Charakteristika
 
-– karmínově červená, Na+
+- Řadíme sem alkalické kovy (1. skupina s výjimkou $\ce{H}$), $\ce{Be}$, $\ce{Mg}$ a kovy alkalických zemin (2. skupina počínaje $\ce{Ca}$).
+- Jedná se o typické kovy s nízkou ionizační energií a velkým atomovým poloměrem (neboť v periodě klesá) a snadno tvoří kationty.
+- Jsou velmi reaktivní (právě díky nízké ionizační energii) a jedná se o silná redukční činidla ($\ce {X + Na -> X^{-} + Na^{+}}$).
+- V přírodě jsou pouze vázané ve sloučeninách (jako kationty).
+- Typické je pro ně barvení plamene (jedná se o deexcitaci a důkaz používaný v analytické chemii -- plamenová zkouška): $\ce{Li+}$ -- karmínově červená, $\ce{Na+}$ -- žlutá, $\ce{K+}$ -- fialová, $\ce{Rb+}$ -- červeno-fialová, $\ce{Cs+}$ -- modro-fialová, $\ce{Ca2+}$ -- cihlově červená, $\ce{Sr2+}$ -- karmínově červená, $\ce{Ba2+}$ -- zelená.
 
-– žlutá, K+
+# Alkalické kovy
 
-– fialová, Rb+
-–
+## Charakteristika
 
-červeno-fialová, Cs+
+- $s^1$-prvky
+- Prvky: Li, Na, K, Rb, Cs a Fr
+- Obecná elektronová konfigurace $n s^1$
 
-– modro-fialová, Ca2+
+### Výskyt v přírodě
 
-– cihlově červená, Sr2+
+- Pouze vázané ve sloučeninách:
+	- Sodík: $\ce{NaCl}$ sůl kamenná (halit), $\ce{Na2SO4 \cdot 10 H2O}$ Glauberova sůl, $\ce{NaNO3}$ chilský ledek
+	- Draslík: $\ce{KNO3}$ draselný ledek, $\ce{KCl}$ sylvín
+	- Cs a Rb: jejich sloučeniny doprovází sloučeniny ostatních alkalických kovů
+- Na a K jsou biogenní (přítomné v podobě kationtů v roztocích)
 
-– karmínově červená,
+### Vlastnosti
 
-Ba2+
-– zelená.
+- Měkké (dají se krájet nožem), stříbrolesklé, neušlechtilé kovy s malou hustotou (plavou na vodě).
+- Na vzduchu se snadno oxidují a pokrývají se vrstvou oxidačních produktů (Li hoří na oxid, Na na peroxid, ostatní na superoxidy).
+- Skladují se pod inertním rozpouštědlem (petrolej).
+- Velmi dobře vedou teplo a elektrický proud.
+- Nízká elektronegativita (vazby převážně iontové), oxidační číslo pouze I.
+- Velmi reaktivní s redukčními účinky (snadno redukují i řadu nekovů – reakce je někdy explozivní):
+	- S vodou: $\ce{2 M + 2 H2O -> 2 MOH + H2}$
+	- S kovy a polokovy: $\ce{SiF4 + 4 K -> Si + 4 KF}$
+	- S vodíkem: $\ce{2 M + H2 -> 2 MH}$
 
-Alkalické kovy
-Charakteristika:
-• s
-1
--prvky
-• Prvky: Li, Na, K, Rb, Cs a Fr
-• Obecná elektronová konfigurace:
-Výskyt v přírodě:
-• Pouze vázané ve sloučeninách:
-o Sodík: NaCl sůl kamenná (halit), Na2SO4 · 10 H2O Glauberova sůl, NaNO3 chilský
-ledek
-o Draslík: KNO3 draselný ledek, KCl sylvín
-o Cs a Rb: jejich sloučeniny doprovází sloučeniny ostatních alkalických kovů
-• Na a K jsou biogenní (přítomné v podobě kationtů v roztocích)
-Vlastnosti:
-• Měkké (dají se krájet nožem), stříbrolesklé, neušlechtilé kovy s malou hustotou (plavou na
-vodě).
-• Na vzduchu se snadno oxidují a pokrývají se vrstvou oxidačních produktů (Li hoří na oxid,
-Na na peroxid, ostatní na superoxidy).
-• Skladují se pod inertním rozpouštědlem (petrolej).
-• Velmi dobře vedou teplo a elektrický proud.
-• Nízká elektronegativita (vazby převážně iontové), oxidační číslo pouze I.
-• Velmi reaktivní s redukčními účinky (snadno redukují i řadu nekovů – reakce je někdy
-explozivní):
-o S vodou: 2 M + 2 H2O → 2 MOH + H2
-o S kovy a polokovy: SiF4 + 4 K → Si + 4 KF
-o S vodíkem: 2 M + H2 → 2 MH
+### Výroba
 
-Výroba:
-• Sodík a lithium se vyrábí elektrolýzou tavenin svých chloridů:
-o Katoda (redukce): 2 Na+ + 2 e- → 2 Na
-o Anoda (oxidace): 2 Cl- → Cl2 + 2e-
-• Draslík redukcí KCl sodíkem a následnou destilací draslíku ze směsi
-Využití:
+- Sodík a lithium se vyrábí elektrolýzou tavenin svých chloridů:
+	- Katoda (redukce): $\ce{2 Na+ + 2 e- -> 2 Na}$
+	- Anoda (oxidace): $\ce{2 Cl- -> Cl2 + 2e-}$
+- Draslík redukcí $\ce{KCl}$ sodíkem a následnou destilací draslíku ze směsi
 
-Sloučeniny:
-• Hydridy:
-o Sloučeniny alkalických kovů s vodíkem (patří mezi iontové hydridy).
-o Bílé krystalické látky, stálost ve skupině klesá (nejstálejší je LiH).
-o V tavenině vedou elektrický proud.
-o Ve vodě se zcela hydrolyzují: NaH + H2O → NaOH + H2
-o Připravují se přímou syntézou: 2 M + H2 → 2 MH
-• Peroxidy:
-o Peroxid sodný Na2O2 vzniká hořením sodíku, má bělící a oxidační účinky, reakce
-mohou být výbušné.
-o S vodou poskytuje peroxid vodíku: Na2O2 + 2 H2O → 2 NaOH + H2O2
-• Superoxidy:
-o Starší název je hyperoxidy.
-o Vznikají hořením alkalických kovů (od draslíku dál).
-o Jsou barevné (KO2 je žlutý, RbO2 tmavě hnědý)
-• Halogenidy:
-o Bezbarvé, krystalické látky.
-o Patří mezi iontové halogenidy.
-o Dobře rozpustné ve vodě.
-o Nejvýznamnější je NaCl (potravinářství).
-o KCl je součástí draselných hnojiv.
-o KBr a KI sloučí jako laboratorní činidla.
+### Využití
 
-• Sulfidy:
-o Příprava přímou syntézou.
-o Dobře rozpustné ve vodě.
-o Hydrolyzují a roztoky reagují alkalicky.
-o Vzdušným kyslíkem se snadno oxidují na thiosírany.
-• Hydroxidy:
-o Bílé, krystalické látky.
-o Snadno rozpustné – dávají roztoky silných zásad.
-o Hygroskopické, leptavé (leptají sklo i porcelán), snadno tavitelné.
-o Silně korozivní.
-o Mají široké využití včetně výroby mýdel (reakce zmýdelnění R-COO-R '+ MOH →
-R-COOM + R'OH), čištění ropných produktů a použití v laboratořích.
-o Hydroxid sodný NaOH – vyrábí se elektrolýzou roztoku NaCl:
-▪ Amalgámová metoda: na rtuťové katodě vzniká amalgám s Na+
+### Sloučeniny
 
-(slitina rtuti
-a kovu), ten se rozkládá teplou vodou na hydroxid, vodík a rtuť (ta se čerpá
-zpět), na grafitové anodě se vylučuje chlor.
-▪ Diafragmová metoda: na grafitové anodě se vylučuje chlor, na katodě se
-vylučuje vodík. Prostor mezi elektrodami je oddělen diafragmou
-(polopropustnou přepážkou), která zabraňuje reakci iontů, oba plyny jsou
-jímány a v roztoku zůstávají jen sodné a hydroxidové ionty.
-
-• Uhličitany a hydrogenuhličitany:
-o Bílé, krystalické látky.
-o Většinou dobře rozpustné ve vodě (výjimky: NaHCO3, Li2CO3 a LiHCO3).
-o Hydrogenuhličitany se žíháním mění na uhličitany.
-o Mohou tvořit hydráty.
-o Hydrogenuhličitan sodný NaHCO3:
-▪ Triviální název je jedná soda (též soda bicarbona).
-▪ Používá se k neutralizacím nebo kypření těsta.
-o Uhličitan sodný Na2CO3:
-▪ Triviální název je soda
-▪ Vyrábí se Solvayovou metodou: roztok NaCl se sytí amoniakem a oxidem
-uhličitým za vzniku nerozpustného hydrogenuhličitanu sodného
-(NaCl + NH3 + CO2 + H2O → NaHCO3 + NH4Cl), hydrogenuhličitan se
-filtruje a následně je termicky rozkládán na uhličitan (2 NaHCO3 → Na2CO3
-+ CO2 + H2O).
-▪ Společně s K2CO3 je surovinou pro výrobu skla.
-
-• Dusičnany:
-o Bezbarvé, krystalické látky.
-o Dobře rozpustné ve vodě, snadno tavitelné.
-o Při vyšších teplotách se rozkládají na dusitany.
-o Např. chilský a draselný ledek – průmyslová hnojiva.
-• Sírany a hydrogensírany:
-o Bezbarvé, krystalické látky, dobře rozpustné ve vodě.
-o K2SO4 – hnojivo.
+- Hydridy
+	- Sloučeniny alkalických kovů s vodíkem (patří mezi iontové hydridy).
+	- Bílé krystalické látky, stálost ve skupině klesá (nejstálejší je $\ce{LiH}$).
+	- V tavenině vedou elektrický proud.
+	- Ve vodě se zcela hydrolyzují: $\ce{NaH + H2O -> NaOH + H2}$
+	- Připravují se přímou syntézou: $\ce{2 M + H2 -> 2 MH}$
+- Peroxidy
+	- Peroxid sodný $\ce{Na2O2}$ vzniká hořením sodíku, má bělící a oxidační účinky, reakce mohou být výbušné.
+	- S vodou poskytuje peroxid vodíku: $\ce{Na2O2 + 2 H2O -> 2 NaOH + H2O2}$
+- Superoxidy:
+	- Starší název je hyperoxidy.
+	- Vznikají hořením alkalických kovů (od draslíku níž).
+	- Jsou barevné ($\ce{KO2}$ je žlutý, $\ce{RbO2}$ tmavě hnědý)
+- Halogenidy
+	- Bezbarvé, krystalické látky.
+	- Patří mezi iontové halogenidy.
+	- Dobře rozpustné ve vodě.
+	- Nejvýznamnější je $\ce{NaCl}$ (potravinářství).
+	- $\ce{KCl}$ je součástí draselných hnojiv.
+	- $\ce{KBr}$ a $\ce{KI}$ sloučí jako laboratorní činidla.
+- Sulfidy
+	- Příprava přímou syntézou.
+	- Dobře rozpustné ve vodě.
+	- Hydrolyzují a roztoky reagují alkalicky.
+	- Vzdušným kyslíkem se snadno oxidují na thiosírany.
+- Hydroxidy
+	- Bílé, krystalické látky.
+	- Snadno rozpustné – dávají roztoky silných zásad.
+	- Hygroskopické, leptavé (leptají sklo i porcelán), snadno tavitelné.
+	- Silně korozivní.
+	- Mají široké využití včetně výroby mýdel (reakce zmýdelnění $\ce{R-COO-R '+ MOH ->R-COOM + R'OH}$), čištění ropných produktů a použití v laboratořích.
+	- Hydroxid sodný $\ce{NaOH}$ – vyrábí se elektrolýzou roztoku $\ce{NaCl}$:
+		- Amalgámová metoda: na rtuťové katodě vzniká amalgám s $\ce{Na+}$ (slitina rtuti a kovu), ten se rozkládá teplou vodou na hydroxid, vodík a rtuť (ta se čerpá zpět), na grafitové anodě se vylučuje chlor.
+		- Diafragmová metoda: na grafitové anodě se vylučuje chlor, na katodě se vylučuje vodík. Prostor mezi elektrodami je oddělen diafragmou (polopropustnou přepážkou), která zabraňuje reakci iontů, oba plyny jsou jímány a v roztoku zůstávají jen sodné a hydroxidové ionty.
+- Uhličitany a hydrogenuhličitany:
+	- Bílé, krystalické látky.
+	- Většinou dobře rozpustné ve vodě (výjimky: NaHCO3, Li2CO3 a LiHCO3).
+	- Hydrogenuhličitany se žíháním mění na uhličitany.
+	- Mohou tvořit hydráty.
+	- Hydrogenuhličitan sodný NaHCO3:
+		- Triviální název je jedná soda (též soda bicarbona).
+		- Používá se k neutralizacím nebo kypření těsta.
+	- Uhličitan sodný Na2CO3:
+		- Triviální název je soda
+		- Vyrábí se Solvayovou metodou: roztok NaCl se sytí amoniakem a oxidem uhličitým za vzniku nerozpustného hydrogenuhličitanu sodného (NaCl + NH3 + CO2 + H2O -> NaHCO3 + NH4Cl), hydrogenuhličitan se filtruje a následně je termicky rozkládán na uhličitan (2 NaHCO3 -> Na2CO3 + CO2 + H2O).
+		- Společně s K2CO3 je surovinou pro výrobu skla.
+- Dusičnany
+	- Bezbarvé, krystalické látky.
+	- Dobře rozpustné ve vodě, snadno tavitelné.
+	- Při vyšších teplotách se rozkládají na dusitany.
+	- Např. chilský a draselný ledek – průmyslová hnojiva.
+		- Sírany a hydrogensírany:
+	- Bezbarvé, krystalické látky, dobře rozpustné ve vodě.
+	- K2SO4 – hnojivo.
 
 s
 2
@@ -1645,7 +1612,7 @@ Vlastnosti:
 • Beryllium a hořčík se od zbytku skupiny svými vlastnostmi liší (vyšší elektronegativita).
 Výroba:
 • Elektrolýzou tavenin jejich chloridů.
-• Také redukcí halogenidů sodíkem: CaCl2 + 2 Na → 2 NaCl + Ca
+• Také redukcí halogenidů sodíkem: CaCl2 + 2 Na -> 2 NaCl + Ca
 Využití:
 
 Sloučeniny kovů alkalických zemin:
@@ -1657,7 +1624,7 @@ o CaH2 je silné redukční činidlo a sušící prostředek organických rozpou
 o Bílé, krystalické látky, iontové vazby.
 o Významný je oxid vápenatý CaO:
 ▪ Pálené vápno
-▪ Vyrábí se pálením vápence: CaCO3 → CaO + CO2
+▪ Vyrábí se pálením vápence: CaCO3 -> CaO + CO2
 ▪ Používá se ve stavebnictví a úpravě vody a potravin (E 529)
 
 • Hydroxidy:
@@ -1665,10 +1632,10 @@ o Silné zásady (síla roste s protonovým číslem), ve vodě omezeně rozpust
 oxid uhličitý.
 o Významný je hydroxid vápenatý Ca(OH)2:
 ▪ Hašené vápno
-▪ Vzniká hašením páleného vápna (jeho reakcí s vodou): CaO + H2O →
+▪ Vzniká hašením páleného vápna (jeho reakcí s vodou): CaO + H2O ->
 Ca(OH)2
 ▪ Používá se ve stavebnictví – výroba malty, jejíž tvrdnutí vystihuje reakce:
-Ca(OH)2 + CO2 → CaCO3 + H2O
+Ca(OH)2 + CO2 -> CaCO3 + H2O
 ▪ Jeho vodní suspenze se nazývá vápenné mléko
 
 • Halogenidy:

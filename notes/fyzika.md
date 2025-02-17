@@ -911,30 +911,42 @@ Velikost síly je nezávislá na tvaru nádoby, pokud jsou její hrany svislé, 
 
 Hydrostatická tlaková síla vyvolává na ploše, na níž působí, hydrostatický tlak $p_h$:
 
-$$p_h = \rho lh g$$
+> $p_h = \rho lh g$
+
+## Vztlaková síla
+
+Na libovolné ponořené těleso působí hydrostatické tlakové síly. Jejich součtem je vztrlaková síla $\vec{F_vz}$, která míří svisle vzhůru.
+
+> $\vec{F_vz} = {\rho}_K V_t g$
+
+Toto říká Archimédův zákon ze 3. stpřnl.
+
+> Těleso ponořené do kapaliny je nadlehčováno vztlakovou silou, jejíž velikost je rovna tíze kapaliny stejného objemu, jako je objem ponořeného tělesa, nebo jeho ponořené části
+
+Pokud pro těleso sečteme jeho vztalovou silu a tíhovou silu, tak zjistíme, že na nej bude působit síla $F = V_t g (\Delta \rho)$. Pokud bude hustota tělesa vyšší, klesne, pokud bude menší, vyplave a bude plovat. Jsou-li si hustoty rovny, bude se těleso volně vznášet.
 
 ## Příklady
 
 ### 1-7
 
-Jak velká hydrostatická tlaková síla působí na dno vodní nádrže v hloubce 4 m, je-li obsah dna 50 m2? Jaký je v této hloubce hydrostatický tlak? [2 000 kN, 40 kPa]
+Jak velká hydrostatická tlaková síla působí na dno vodní nádrže v hloubce 4 m, je-li obsah dna 50 $m^2$? Jaký je v této hloubce hydrostatický tlak? [2 000 kN, 40 kPa]
 
 ### 1-8
 
-Kámen o objemu 6 dm3 je pod volnou hladinou v hloubce a) 0, 5 m, b) 3 m. Ve kterém případě na něj působí větší vztlaková síla?
+Kámen o objemu 6 $dm^3$ je pod volnou hladinou v hloubce: 0,5 m a 3 m. Ve kterém případě na něj působí větší vztlaková síla?
 
 ### 1-9
 
-Jak velkou vztlakovou silou je nadlehčováno těleso o objemu 1 dm3, je-li zcela ponořeno ve vodě? [10 N]
+Jak velkou vztlakovou silou je nadlehčováno těleso o objemu 1 $dm^3$, je-li zcela ponořeno ve vodě? [10 N]
 
 ### 1-10
 
-Jak velkou silou zvedneme ve vodě kámen o objemu 6 dm3 a hmotnosti 15 kg? [90 N]
+Jak velkou silou zvedneme ve vodě kámen o objemu 6 $dm^3$ a hmotnosti 15 kg? [90 N]
 
 ###
 
-Na vodní hladině plove ledová kra. Jaká část objemu ledové kry vyčnívá nad volný povrch vody? Hustota ledu je 900 kg · m−3, hustota vody 1 000 kg · m−3. [V /10]
+Na vodní hladině plove ledová kra. Jaká část objemu ledové kry vyčnívá nad volný povrch vody? Hustota ledu je 900 $kg \cdot m^{−3}$, hustota vody 1 000 $kg \cdot m^{−3}$. [V /10]
 
 ###
 
-Loď zatížená nákladem zvětší ponor o 1 dm. Obsah vodorovného průřezu lodi v rovině volné hladiny je 50 m2. Určete hmotnost nákladu. [5 000 kg]
+Loď zatížená nákladem zvětší ponor o 1 dm. Obsah vodorovného průřezu lodi v rovině volné hladiny je 50 $m^2$. Určete hmotnost nákladu. [5 000 kg]

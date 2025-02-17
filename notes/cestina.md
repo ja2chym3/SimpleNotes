@@ -944,3 +944,15 @@ Sbírka Borovkého epigramů, jež vyšla posmrtně, obsahuje ironicky adrsovan�
 ### Tyrolská elegie (1852)
 
 Báseň, v níž ironicky, a poněkud realisticky, popisuje své zatčení a cestu do vyhnanství, chování policie, která jej tam odvážela a obecně všem, kteří se mu takto mstili.
+
+## Karel Jaromír Erben (1811 -- 1870)
+
+Básník, folklorista, vydavatel starší české literatury (např. Jana Amose Komenského), překladatel (např. Slovo o pluku Igorově).
+
+### Prostonárodní české písně a říkadla
+
+Jsou sbírkou 2200 lidových skladeb, které získal jako folklorista.
+
+### České pohádky (1905)
+
+Vydané posmrtně, jsou to např.: Tři zlaté vlasy děda Vševěda; Dlouhý,Široký a Bystrozraký; Zlatovláska; Rozum a Štěstí; Pták Ohnivák a Liška Ryška.
