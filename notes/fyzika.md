@@ -923,7 +923,7 @@ Toto říká Archimédův zákon ze 3. stpřnl.
 
 > Těleso ponořené do kapaliny je nadlehčováno vztlakovou silou, jejíž velikost je rovna tíze kapaliny stejného objemu, jako je objem ponořeného tělesa, nebo jeho ponořené části
 
-Pokud pro těleso sečteme jeho vztalovou silu a tíhovou silu, tak zjistíme, že na nej bude působit síla $F = V_t g (\Delta \rho)$. Pokud bude hustota tělesa vyšší, klesne, pokud bude menší, vyplave a bude plovat. Jsou-li si hustoty rovny, bude se těleso volně vznášet.
+Pokud pro těleso sečteme jeho vztalovou silu a tíhovou silu, tak zjistíme, že na nej bude působit síla $F = V_t g (\Delta \rho)$. Pokud bude hustota tělesa vyšší, klesne, pokud bude menší, vyplave a bude plavat. Jsou-li si hustoty rovny, bude se těleso volně vznášet.
 
 ## Příklady
 
@@ -931,22 +931,62 @@ Pokud pro těleso sečteme jeho vztalovou silu a tíhovou silu, tak zjistíme, �
 
 Jak velká hydrostatická tlaková síla působí na dno vodní nádrže v hloubce 4 m, je-li obsah dna 50 $m^2$? Jaký je v této hloubce hydrostatický tlak? [2 000 kN, 40 kPa]
 
+$h = 4 \space m$
+$S = 50 \space m^2$
+$F?_h = \space ?$
+$p = \space ?$
+
+${\rho}(aq) = 1000 \space kg \cdot m^{-3}$
+$g = 10 \space m \cdot s^{-2}$
+
+$$F_h = \rho h S g = 1000 \cdot 4 \cdot 50 \cdot 10 = 2 \cdot 10^6 \space N$$
+$$p_h  = \rho h g = 1000 \cdot 4 \cdot 10 = 4 \cdot 10^4 \space Pa$$
+
 ### 1-8
 
 Kámen o objemu 6 $dm^3$ je pod volnou hladinou v hloubce: 0,5 m a 3 m. Ve kterém případě na něj působí větší vztlaková síla?
+
+$$\vec{F_vz} = {\rho}_K V_t g$$
+
+Jsou si rovny
 
 ### 1-9
 
 Jak velkou vztlakovou silou je nadlehčováno těleso o objemu 1 $dm^3$, je-li zcela ponořeno ve vodě? [10 N]
 
+$V_t = 1 \space dm^3 = 10^{-3} \space m^3$
+
+${\rho}(aq) = 1000 \space kg \cdot m^{-3}$
+$g = 10 \space m \cdot s^{-2}$
+
+$$F_vz = {\rho}_K V_t g = 1000 \cdot 10^{-3} \cdot 10 = 10 \space N$$
+
 ### 1-10
 
 Jak velkou silou zvedneme ve vodě kámen o objemu 6 $dm^3$ a hmotnosti 15 kg? [90 N]
 
+$m_t = 15 \space kg$
+$V = 6 \space dm^3 = 6 \cdot 10^{-3} \space m^3$
+
+${\rho}(aq) = 1000 \space kg \cdot m^{-3}$
+$g = 10 \space m \cdot s^{-2}$
+
+$$F = F_G - F_vz = g (m_t - {\rho}_aq V_t) = 10 (15 - 1000 \cdot 6 \cdot 10^{-3} ) = 90 \space N$$
+
 ###
 
-Na vodní hladině plove ledová kra. Jaká část objemu ledové kry vyčnívá nad volný povrch vody? Hustota ledu je 900 $kg \cdot m^{−3}$, hustota vody 1 000 $kg \cdot m^{−3}$. [V /10]
+Na vodní hladině plave ledová kra. Jaká část objemu ledové kry vyčnívá nad volný povrch vody? Hustota ledu je 900 $kg \cdot m^{−3}$, hustota vody 1 000 $kg \cdot m^{−3}$. [V /10]
+
+${\rho}_t = 900 \space kg \cdot m^{−3}$
+${\rho}_k = 1000 \space kg \cdot m^{−3}$
+
+$$F_G = F_vz$$
+$$V_t {\rho}_t g = {\rho}_k V_t g$$
+$$V_t {\rho}_t = {\rho}_k V_t (1-x)$$
+$$x = 1 - \frac {{\rho}_t} {{\rho}_k} = 1 - \frac {900} {1000} = 10 %$$
 
 ###
 
 Loď zatížená nákladem zvětší ponor o 1 dm. Obsah vodorovného průřezu lodi v rovině volné hladiny je 50 $m^2$. Určete hmotnost nákladu. [5 000 kg]
+
+$$m_t = V_k \cdot {\rho}_k = S \cdot h \cdot {\rho}_k = 50 \cdot 0,   1 \cdot 1000 = $$

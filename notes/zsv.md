@@ -1,2 +1,5 @@
 # Úvod Sociologie
 
+Vzniká v 1. pol. 19. st., v němž se mnoho lidí sestěhovávalo do měst, což také přivádělo mnoho problémů, velké nároky na infrastrukturu a služby. Zkoumá dynamické i statické jevy, společnost a její strukturu. Za jednoho z prvních se dá považovat francouz Auguste Comte. Navazuje na mnoho dalších věd: ekologii, ekonomii, filozofii, historii, kulturní antropologii, politologii a psychologii. V sociologii je důležitý vědecký přístup, snaží se pozorovat měřitelná fakta a oddělovat se od předsudků, stereotypů a výchovy.
+
+Sociologický realismus (Emile Durkheim) zkoumá sociální fakta nezávisle na lidském individuu, tvrdí, že se vzorce ve společnosti opakují. Lidské činz jsou vlastně působením mnoha fakterů, byť se zdají osobní a individuální. Když něco dělám, plyne to ze zvyků a zákonů mimo mě, z právních norem a náoženství.

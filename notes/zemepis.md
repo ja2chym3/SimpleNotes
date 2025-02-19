@@ -328,11 +328,17 @@ Ve Středu se nachází tropický pás.
 
 ## Vegetační pásma
 
-Na úplném severu, při pobřeží a na horách se nachází v subtropických až mírných podnebích vegetace středomořského typu, táž vegetace se bude nacházet také na jižním extrému, klima je mírně, se suchými léty a velmi horkými léty.
-Pouště se nachází ve velmi aridních a (až na vrcholky hor) horkých podnebích. Polopouště tyto pouěte obkloupují.
-Savany a suché stepy obkopují rovníkový pás v střídavé vlhkém tropickém pásu.
+Na úplném severu, při pobřeží a na horách se nachází v subtropických až mírných podnebích vegetace středomořského typu, táž vegetace se bude nacházet také na jižním extrému, klima je mírně, se suchými léty a velmi horkými léty. Roste zde stálezelené tvrdolisté vegetace.
+Pouště se nachází ve velmi aridních a (až na vrcholky hor) horkých podnebích. Polopouště tyto pouště obkloupují. Zde je vegetace zcela minimální.
+Savany obkopují rovníkový pás v střídavě vlhkém tropickém pásu. Je zde malé množství stromů, např. baobaby, akácie a žijí zde největší afričtí savci.
 V rovníkovém pásu se nachází tropický deštný les.
 
-## Biomy Afriky
+## Regiony
 
--
+## Severní Afrika
+
+Severní Afriku tvoří Maghreb a Mashriq. Maghreb se nachází na západě arabského světa a tvoí jej Lybie, Tunisko, Alžírsko, Maroko a Západní Sahara. Mashriq pak tvoří zbytek arabského světa. Valnou většinu povrchu Severní Afriky pokrývá poušť. Nejvyšší pohoří je Atlas (Džabal Tubkal 4165 mnm. leží  Maroku) dále zde leží stará prvohorní pohoří. Saharu tvoří regionální pouště. Písečné pouště se nazývají ergy, štěrkové jsou seríry a kamenné jsou hamady. Historicky byla Sahara mnohem vlhčí, Čadské jezero bylo plné a nacházela se zde Savana. 
+
+Severní Afrika je nejsušší region v Africe. Jedinou skutečně velkou řekou je Nil, který pramení ve vlhké části Afriky a ze zdroje tedy stále přitéká dostatek vody. Zbytek řek jsou Vádí, periodicky vysychající řeky. V jeho okolí byly postaveny zavodňovací kanály, která se naplňovali s velkou vodou a umožňovala tak pěstování různých rostlin. nenachází se zde mnoho jezer, hlavně Šotty, slané jezera a pánve. Zdrojem pitné vody jsou proto hlavně oázy, například Farafra, Kuferské oázy či Kharga. Po Saharou se nahází obrovské podzemní zásoby vody. Ve snaze regulovat stav Nilu a napomáhat lodní dopravě a chránit před povodněmi se postavila Asuánská (Násirova) přehrada. 
+
+Podnebí spadá do subtropického pásu, pobřežní pásmo do cca 200 km má podnebí Středomořského typu, kde jsou suchá a horká léta, mírné a deštivě zimy. Ve středu jsou suché subtropy až tropy, teplotní rekord (snad) 58 ˚C. Místními větry jsou například scirocco, samum a chamsin, proudění kontinentálního tropického vzduchu ze Sahary na Sever.

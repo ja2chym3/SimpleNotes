@@ -1082,33 +1082,24 @@ $\ce {SiO2 + CaC2 -> Si + Ca + 2 CO}$ nebo redukce uhlíkem (koks) $\ce {SiO2 + 
 
 ### Využití
 
-Výroba železa
-Složka slitin
-Výroba elektrotechnických součástek, procesorů
-výroba brusných materiálů
-
-Oxid křemičitý SiO 2
-Kosmetika - pleťové krémy, vlasové výrobky, sluneční krémy
-Průmysl - křemenné sklo
-
-Kyselina křemičitá H 4 SiO 4
-Tvoří rosolovitou hmotu
-Výroba skla, keramiky, hnojiv a pesticidů
-
-Křemičitan sodný Na 2 SiO 3
-Vodní sklo
-Protispékavá látka
-Křemičitan draselný K 2 SiO 3
-Kosmetika -výroba pleťových krémů
-Zemědělství - výroba hnojiva, pesticidů
-
-Silikony
-vyroba maziva, hydrofobní nátěry
-Chlorid křemičitý
-fotovoltaické články
-Bromid křemičitý
-Optická technologie
-Fluorid křemičitý - leptání křemíku
+- $\ce{Si}$
+	- Výroba železa, složka slitin, výroba elektrotechnických součástek, procesorů, výroba brusných materiálů
+- Oxid křemičitý $\ce{SiO2}$
+	- V kosmetice pleťové krémy, vlasové výrobky, sluneční krémy a v průmyslu křemenné sklo
+- Kyselina křemičitá $\ce{H4SiO4}$
+	- Tvoří rosolovitou hmotu, výroba skla, keramiky, hnojiv a pesticidů
+- Křemičitan sodný $\ce{Na2SiO3}$
+	- Vodní sklo, Protispékavá látka
+- Křemičitan draselný $\ce{K2SiO3}$
+	- V kosmetice výroba pleťových krémů, v zemědělství výroba hnojiva, pesticidů
+- Silikony
+	- výroba maziva, hydrofobní nátěry
+- Chlorid křemičitý
+	- fotovoltaické články
+- Bromid křemičitý
+	- Optická technologie
+- Fluorid křemičitý
+	- leptání křemíku
 
 ### Sloučeniny
 
@@ -1169,54 +1160,39 @@ $\ce {B2O3 + 3 Mg -> 2 B + 3 MgO}$
 
 ### Využití
 
-Sklářský průmysl
-
-- Přísada do skla
-	- Keramika
-- Výroba glazury
-	- Pyrotechnika
-	- Složka brusných směsí
-	- Přísada oceli
-- Zlepšuje kalitelnost
-	- Legující prvek při přípravě slitin s Al
-- Zjemňuje strukturu materiálu
-- Zvyšuje elektrickou vodivost čistému Al
-
-Bezkyslíkaté sloučeniny
-
-Borany
-
-- Potenciální pohonné látky v kapalinových raketových pohonech
-Boridy
-- Brusné materiály
-- Ochranné vrstvy na tepelně namáhané součásti proudových a raketových motorů
-Fluorid boritý
-- Katalyzátor v organické synthese
-
-Kyslíkate sloučeniny
-
-Kyselina trihydrogen boritá
-- Slabá kyselina
-- Příprava dalších sloučenin boru
-- V lékařství
-- Příprava borové vody
-	- Dezinfekce na oči
-
-Kyselina boritá
-
-- Konzervant kaviáru
-- Baktericidní přísada do lubrikačních gelů
-
-Dekahydrát tetraboritanu disodného
-
-- Analytická chemie
-- Důkaz kationtů v boraxové perličce
-
-Peroxyhydrát boritanu sodného
-
-- Oxidovadlo s bělícím účinkem
-- Lékařství
-- Výroba pracích prostředků
+- Sklářský průmysl
+	- Přísada do skla
+		- Keramika
+	- Výroba glazury
+		- Pyrotechnika
+		- Složka brusných směsí
+		- Přísada oceli
+	- Zlepšuje kalitelnost
+		- Legující prvek při přípravě slitin s Al
+	- Zjemňuje strukturu materiálu
+	- Zvyšuje elektrickou vodivost čistému Al
+- Borany
+	- Potenciální pohonné látky v kapalinových raketových pohonech
+- Boridy
+	- Brusné materiály
+	- Ochranné vrstvy na tepelně namáhané součásti proudových a raketových motorů
+- Fluorid boritý
+	- Katalyzátor v organické synthese
+- Kyselina trihydrogen boritá
+	- Slabá kyselina
+	- Příprava dalších sloučenin boru
+	- V lékařství
+	- Příprava borové vody, dezinfekce na oči
+- Kyselina boritá
+	- Konzervant kaviáru
+	- Baktericidní přísada do lubrikačních gelů
+- Dekahydrát tetraboritanu disodného
+	- Analytická chemie
+	- Důkaz kationtů v boraxové perličce
+- Peroxyhydrát boritanu sodného
+	- Oxidovadlo s bělícím účinkem
+	- Lékařství
+	- Výroba pracích prostředků
 
 ### Sloučeniny
 
@@ -1236,8 +1212,6 @@ Peroxyhydrát boritanu sodného
 - Vzniká mezi atomy kovu v pevném skupenství. Kationty kovu jsou rozmístěny v pravidelné mřížce a jejich valenční elektrony se kolem nich volně pohybují (to označujeme také jako elektronový plyn).
 - Struktura zůstává spojená díky elektrostatické přitažlivosti kationtů a elektronů.
 - Tuto vazbu v chemické rovnici nijak neznázorňujeme a daný kov zapisujeme jen jako prvek. Vazbu ovšem můžeme graficky znázornit takto:
-
-![a0bec6ddc9217631d44d529a92ad7699.png](:/53f3e46536e6433ca897d2faac49865c)
 
 Mezi kovy patří (f-prvky), d-prvky, s-prvky (jsou měkké a reaktivnější než d-prvky) a některé p-prvky (důležité jsou Al, Sn, Pb).
 
