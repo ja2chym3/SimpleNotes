@@ -551,6 +551,8 @@ Toto dílo sepsal fyzicky paralizován živ v žíněnkovém hrobě a vyznačuje
 
 Jsou známí jako spisovatelé pohádek. Jejich nejslavnější dílo jsou Dětské a domácí pohádky. Jacob je pak slavným jazykovědcem, každý zná Grimmův zákon, a jeho bratr Wilhelm byl literárním vědcem. Wilhelm tyto pohádky poté upravoval a velmi dobře zachytili jejich podobu v germánských zemích. Pohádky se sice odehrávají i v zámcích a hradech, ale také v nuzných chýších, dílnách, zkrátka kdekoli. Proto je považujeme za jedny ze zakladatelů folkloristiky a Jacoba za zakladatele germanistiky.
 
+# Francouzský romantismus
+
 ## Stendhal (1783 – 1842)
 
 Byl romanopisec a esejista. Ve své době nebyl moc znám, čten i byl nedoceněn. Jeden z mála, již si ho vážili, byl Honoré Balzac, jenž poukázal na hodnotnost jeho díla, Karzouta parmská. Pojmenoval se podle města, ve kterém se nacházel za bojů. Tvůrce psychologického románu.
@@ -622,16 +624,17 @@ Epická třídílná sbírka, jež oslavuje vývoj lidstva, vědu, umění, kter
 
 Přemítání, dumání, Hugo reflektuje na svůj ponurý život.
 
-# Alexandr Sergejevič Puškin (1799 – 1837)
+# Ruský romantismus
 
-Měl manželku Natalii Nikolajevnu Gonšalová (?), velmi sličná slečna. Puškinovi přišel dopis, že dědeček jeho matky byl syn etipského císaře, stal se přítelem Petra velikého. Pocházel ze starého šlechtického rodu. Byl horkokravný. Reagoval na anonymní dopis, že jej žena podvádí z Dantem, vyzval jej k duelu, střelil první, trefil trup, střela se odrazí od kovového knoflíku, Puškina pak trefí do břicha, po pár dnech umře.
+## Alexandr Sergejevič Puškin (1799 – 1837)
+
+Měl manželku Natalii Nikolajevnu Gonšalová (?), velmi sličná slečna. Puškinovi přišel dopis, že dědeček jeho matky byl syn etiopského císaře, stal se přítelem Petra velikého. Pocházel ze starého šlechtického rodu. Byl horkokrevný. Reagoval na anonymní dopis, že jej žena podvádí s Dantem, vyzval jej k duelu, střelil první, trefil trup, střela se odrazí od kovového knoflíku, Puškina pak trefí do břicha, po pár dnech umře.
 
 Největší básník všech dob, uznávaný prozaik i dramatik, psal poemy neboli básnické neboli byronské povídky. Synonyma, byronská je ale jiná, je tu boj proti světu.
 
 ### Evžen Oněgin – Евгений Онегин (1823 – 1833)
 
-Nejlepší dílo všech dob je Evžen Oněgin, veršovaný román, první dílo toho žánru, nebo spíš druhé, protože Byron byl první se svým dílem Don Juanem, ale to nevadí, první byl Puškin i když byl druhý. Hlavním hrdinou Evžena Oněgina je Evžen Oněgin, mladý šlechtic bez nouze o příklon žen, zakouší všemožné kulturní akce, užívá si s mnohými ženami. Je tímto znuděn. Na jednom večírku si jeho přítel myslí, že Evžen flirtuje s jeho snoubenkou Olgou, neboť s ní dlouho tančil, přítel si to tak vyloží a vyzve jej na souboj, Evžen přítele zastřelí. Ještě před tím, než dojde k souboji má Olga spanilou mladičkou a naivní sestru Taťánu. Taťána se do Oněgina zamiluje a napíše mu dopis, to je na dobu nekonvenční, neboť lovili muži, ona mu vyznává lásku v dopise, a Oněgin poznává, že jej miluje, řekne Táně, že si váží její přízně, ale odmítá ji, neboť by jí ublížil, není schopen skutečné lásky, není pro ni ten praví, jeho cit by okoral, nechce ji učinit nešťastnou. Odjíždí. Chce zapomenout na to co se stalo, po několika letech večírků i studia opět potká Táňu na plese. Tam ji vidí ještě spanilejší a krásnější a vzplane láskou, uvědomiv své osudové city k ní. Ona si uvědomuje že ho stále miluje, ale je poctivá dívka, vdaná za generála. City se nezměnili, ale vstříc mu vyjít nemůže. Touto postavou v literatuře uplatnil tzv. zbytečného člověka, v ruské literatuře typ postavy: aristokrat, který přestože má moc, inteligenci, dispozice, schopnost se realizovat a je  
-bohatý, vinou vlastní lhostejnosti a pasivity, ale i společnosti, toto promrhá a nenaváže autentický dlouhodobí vztah ni nenalezne smysl. Oněgin není první ale je základní.
+Nejlepší dílo všech dob je Evžen Oněgin, veršovaný román, první dílo toho žánru, nebo spíš druhé, protože Byron byl první se svým dílem Don Juanem, ale to nevadí, první byl Puškin i když byl druhý. Hlavním hrdinou Evžena Oněgina je Evžen Oněgin, mladý šlechtic bez nouze o příklon žen, zakouší všemožné kulturní akce, užívá si s mnohými ženami. Je tímto znuděn. Na jednom večírku si jeho přítel myslí, že Evžen flirtuje s jeho snoubenkou Olgou, neboť s ní dlouho tančil, přítel si to tak vyloží a vyzve jej na souboj, Evžen přítele zastřelí. Ještě před tím, než dojde k souboji má Olga spanilou mladičkou a naivní sestru Taťánu. Taťána se do Oněgina zamiluje a napíše mu dopis, to je na dobu nekonvenční, neboť lovili muži, ona mu vyznává lásku v dopise, a Oněgin poznává, že jej miluje, řekne Táně, že si váží její přízně, ale odmítá ji, neboť by jí ublížil, není schopen skutečné lásky, není pro ni ten praví, jeho cit by okoral, nechce ji učinit nešťastnou. Odjíždí. Chce zapomenout na to co se stalo, po několika letech večírků i studia opět potká Táňu na plese. Tam ji vidí ještě spanilejší a krásnější a vzplane láskou, uvědomiv své osudové city k ní. Ona si uvědomuje že ho stále miluje, ale je poctivá dívka, vdaná za generála. City se nezměnili, ale vstříc mu vyjít nemůže. Touto postavou v literatuře uplatnil tzv. zbytečného člověka, v ruské literatuře typ postavy: aristokrat, který přestože má moc, inteligenci, dispozice, schopnost se realizovat a je bohatý, vinou vlastní lhostejnosti a pasivity, ale i společnosti, toto promrhá a nenaváže autentický dlouhodobí vztah ni nenalezne smysl. Oněgin není první ale je základní.
 
 Přepiš
 
@@ -655,7 +658,7 @@ Dopiš
 
 ### Měděný jezdec – Petrohradská povídka – Медный всадник (1833)
 
-Hlavní hrdina Jevgenij přijde vinou záplav, jež petrohrad zužují, o svou milou. V žalu bloumá Petrohradem, dojde k měděné soše Petra Velikého na koni, proklíná panovníka, že se to všechno zlé děje pod jeho dohledem. Zdánlivě – můžeme vnímat jako realitu, nebo jako sen – ho socha pronásleduje, on před ní utíká, nakonec jej dostihne. Je nalezen mrtvý před domem své bývalé milé.
+Hlavní hrdina Jevgenij přijde vinou záplav, jež Petrohrad zužují, o svou milou. V žalu bloumá Petrohradem, dojde k měděné soše Petra Velikého na koni, proklíná panovníka, že se to všechno zlé děje pod jeho dohledem. Zdánlivě – můžeme vnímat jako realitu, nebo jako sen – ho socha pronásleduje, on před ní utíká, nakonec jej dostihne. Je nalezen mrtvý před domem své bývalé milé.
 
 ### Boris Godunov – Борис Годунов (1825)
 
@@ -710,6 +713,8 @@ Je Litevec a jeho národ je napadán řádem německých rytířů. Rozhodne se 
 ### Pan Tadeáš aneb poslední nájezd na Litvě
 
 Je mnohými považován za polský národní epos. Má místy i vtipné vyznění. Proti sobě stojí dva znepřátelené rody, v obou jsou mladí milenci, milují se a vlivem hostility rodů nemohou lásku naplnit. Dochází k bitvě mezi rody a vzápětí jsou napadeni Rusy. Rody se spojí proti společnému nepříteli a vyhrávají. Sympatizuje s Napoleonem.
+
+# Americký romantismus
 
 ## Edgar Allan Poe (1809 -- 1849)
 
@@ -913,6 +918,10 @@ Je historická povídka odehrávající se v době Václava IV.
 
 Je jeho nejpesimistější dílo.
 
+## biedermeier
+
+Je styl který se uplatňovala v době klidu od válek (1816 -- 1848). Jedná se o měšťanský životní styl, který už měl dost válek a strastí, společnost od agrese chtěla mít klid. Jedná se o styl, který se odpolitizoval a hledá krásu v maličkostech, rodině, přátelství, tradici, skromnosti, prostotě a užitečnosti. Díla jím ovlivněná měla sklony k idylám, pastorelá, eklogelám, poklidnému životu, při němž je člověk obklopený rodinným blahobytem, nebouří se proti společnosti, vykonává drobnou vlasteneckou činost. Díla jsou také sentimentální a vlastenecká, ale ne příliš. Konce jsou často pozitivní. Například Magdalena Dobromila Rettigová je velkou reprezentantkou biedermeier a autorka nejstarší české kuchařky.
+
 ## Josefán Kajetán Tyl, milíáček národa (1808 – 1856)
 
 Ke konci života již nebyl miláčkem a dožíval v bídě. Miláčkem byl, jelikož pořádal mnohé plesy a bály. A vstoupiv do časopisu jindy a nyní, změnil jeho název na květy a mnohokrát zvýšil jeho oblíbenost. V prvé řadě byl dramatik, prozaik a v dané době velmi významný a kvalitní, na dnešek ne tolik, organizátor společenského života, autor, spisovatel, překladatel (Krále Lear), tvůrce slov české hymny, (+ Škroup). Byl ochotnický herec, vedl divadelní spolek Kajetánské divadlo, kde právě byl Mácha a Eleonora, o niž se přeli, dále tam také byl Karel Sabina. Tyl byl zkrátka divadelník, autor, aktér a divadelní ředitel. Těžiště jeho tvorby připadá na drama. Jeho dramata můžeme rozdělit do tří skupin: dramata ze současnosti (Fidlovačka...), historická (Jan Hus, Kutnohorští havíři aneb krvavý soud, který byl cenzurou zakázán) a dramatcké báchorky s pohádkovými prvky
@@ -949,10 +958,11 @@ Báseň, v níž ironicky, a poněkud realisticky, popisuje své zatčení a ces
 
 Básník, folklorista, vydavatel starší české literatury (např. Jana Amose Komenského), překladatel (např. Slovo o pluku Igorově).
 
-### Prostonárodní české písně a říkadla
+
+### Prostonárodní české písně a říkadla ()
 
 Jsou sbírkou 2200 lidových skladeb, které získal jako folklorista.
 
 ### České pohádky (1905)
 
-Vydané posmrtně, jsou to např.: Tři zlaté vlasy děda Vševěda; Dlouhý,Široký a Bystrozraký; Zlatovláska; Rozum a Štěstí; Pták Ohnivák a Liška Ryška.
+Vydané posmrtně, jsou to např.: Tři zlaté vlasy děda Vševěda; Dlouhý,Široký a Bystrozraký; Zlatovláska; Rozum a Štěstí; Dvojčata; Pták Ohnivák a Liška Ryška.
