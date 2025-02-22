@@ -1538,16 +1538,16 @@ kamence (např. kamenec draselno-hlinitý $\ce{KAl(SO4)2 · 12 H2O).}$
 		- Diafragmová metoda: na grafitové anodě se vylučuje chlor, na katodě se vylučuje vodík. Prostor mezi elektrodami je oddělen diafragmou (polopropustnou přepážkou), která zabraňuje reakci iontů, oba plyny jsou jímány a v roztoku zůstávají jen sodné a hydroxidové ionty.
 - Uhličitany a hydrogenuhličitany:
 	- Bílé, krystalické látky.
-	- Většinou dobře rozpustné ve vodě (výjimky: NaHCO3, Li2CO3 a LiHCO3).
+	- Většinou dobře rozpustné ve vodě (výjimky: $\ce {NaHCO3}$, $\ce {Li2CO3}$ a $\ce {LiHCO3}$).
 	- Hydrogenuhličitany se žíháním mění na uhličitany.
 	- Mohou tvořit hydráty.
 	- Hydrogenuhličitan sodný NaHCO3:
 		- Triviální název je jedná soda (též soda bicarbona).
 		- Používá se k neutralizacím nebo kypření těsta.
-	- Uhličitan sodný Na2CO3:
+	- Uhličitan sodný $\ce {Na2CO3}$:
 		- Triviální název je soda
-		- Vyrábí se Solvayovou metodou: roztok NaCl se sytí amoniakem a oxidem uhličitým za vzniku nerozpustného hydrogenuhličitanu sodného (NaCl + NH3 + CO2 + H2O -> NaHCO3 + NH4Cl), hydrogenuhličitan se filtruje a následně je termicky rozkládán na uhličitan (2 NaHCO3 -> Na2CO3 + CO2 + H2O).
-		- Společně s K2CO3 je surovinou pro výrobu skla.
+		- Vyrábí se Solvayovou metodou: roztok NaCl se sytí amoniakem a oxidem uhličitým za vzniku nerozpustného hydrogenuhličitanu sodného ($\ce {NaCl + NH3 + CO2 + H2O -> NaHCO3 + NH4Cl}$), hydrogenuhličitan se filtruje a následně je termicky rozkládán na uhličitan ($\ce {2 NaHCO3 -> Na2CO3 + CO2 + H2O}$).
+		- Společně s $\ce {K2CO3}$ je surovinou pro výrobu skla.
 - Dusičnany
 	- Bezbarvé, krystalické látky.
 	- Dobře rozpustné ve vodě, snadno tavitelné.
@@ -1555,79 +1555,76 @@ kamence (např. kamenec draselno-hlinitý $\ce{KAl(SO4)2 · 12 H2O).}$
 	- Např. chilský a draselný ledek – průmyslová hnojiva.
 		- Sírany a hydrogensírany:
 	- Bezbarvé, krystalické látky, dobře rozpustné ve vodě.
-	- K2SO4 – hnojivo.
+	- $\ce {K2SO4}$ – hnojivo.
 
-s
-2
--prvky
-Charakteristika:
-• Be, Mg a kovy alkalických zemin
-• Prvky: Be, Mg, Ca, Sr, Ba a Ra
-• Obecná elektronová konfigurace:
+# s2-prvky
+
+## Charakteristika:
+
+- Be, Mg a kovy alkalických zemin
+- Prvky: Be, Mg, Ca, Sr, Ba a Ra
+- Obecná elektronová konfigurace:
 Výskyt v přírodě:
-• Pouze ve formě sloučenin (oxidační číslo II).
-• Beryllium: beryl (hlinitokřemičitan, jednou z odrůd je selený smaragd)
-• Hořčík: magnezit MgCO3, dolomit CaCO3 . MgCO3, součást chlorofylu
-• Vápník: vápenec CaCO3, sádrovec CaSO4 · 2 H2O, anhydrit CaSO4, kazivec (fluorit) CaF2,
-v kostech a zubech jako fosforečnan vápenatý
-• Stroncium: celestin SrSO4
-• Baryum: baryt (těživec) BaSO4
-• Radium: všechny jeho izotopy jsou radioaktivní, je nepatrnou součástí smolince (oxid
-uraničitý UO2)
-• Ca a Mg jsou biogenní prvky
-Vlastnosti:
-• Stříbrolesklé, neušlechtilé kovy.
-• Tvrdší, méně reaktivní a s vyšší hustotou než s1
--prvky.
+- Pouze ve formě sloučenin (oxidační číslo II).
+- Beryllium: beryl (hlinitokřemičitan, jednou z odrůd je selený smaragd)
+- Hořčík: magnezit $\ce {MgCO3}$, dolomit $\ce {CaCO3 . MgCO3}$, součást chlorofylu
+- Vápník: vápenec $\ce {CaCO3}$, sádrovec $\ce {CaSO4 . 2 H2O}$, anhydrit $\ce {CaSO4}$, kazivec (fluorit) $\ce {CaF2}$, v kostech a zubech jako fosforečnan vápenatý
+- Stroncium: celestin $\ce {SrSO4}$
+- Baryum: baryt (těživec) $\ce {BaSO4}$
+- Radium: všechny jeho izotopy jsou radioaktivní, je nepatrnou součástí smolince (oxid uraničitý $\ce {UO2}$)
+- Ca a Mg jsou biogenní prvky
 
-• Kovy alkalických zemin tvoří převážně iontové vazby, s vodou poskytují hydroxidy a vodík.
-• Oxidační číslo výhradně II.
-• Rozpustné soli stroncia a barya jsou jedovaté.
-• Beryllium a hořčík se od zbytku skupiny svými vlastnostmi liší (vyšší elektronegativita).
-Výroba:
-• Elektrolýzou tavenin jejich chloridů.
-• Také redukcí halogenidů sodíkem: CaCl2 + 2 Na -> 2 NaCl + Ca
-Využití:
+## Vlastnosti:
+
+- Stříbrolesklé, neušlechtilé kovy.
+- Tvrdší, méně reaktivní a s vyšší hustotou než s1-prvky.
+
+- Kovy alkalických zemin tvoří převážně iontové vazby, s vodou poskytují hydroxidy a vodík.
+- Oxidační číslo výhradně II.
+- Rozpustné soli stroncia a barya jsou jedovaté.
+- Beryllium a hořčík se od zbytku skupiny svými vlastnostmi liší (vyšší elektronegativita).
+
+## Výroba
+
+- Elektrolýzou tavenin jejich chloridů.
+- Také redukcí halogenidů sodíkem: $\ce {CaCl2 + 2 Na -> 2 NaCl + Ca}$
+
+## Využití
 
 Sloučeniny kovů alkalických zemin:
-• Hydridy:
-o Bílé, krystalické látky, iontové vazby.
-o Bouřlivě reagují s vodou za vzniku vodíku.
-o CaH2 je silné redukční činidlo a sušící prostředek organických rozpouštědel.
-• Oxidy:
-o Bílé, krystalické látky, iontové vazby.
-o Významný je oxid vápenatý CaO:
-▪ Pálené vápno
-▪ Vyrábí se pálením vápence: CaCO3 -> CaO + CO2
-▪ Používá se ve stavebnictví a úpravě vody a potravin (E 529)
+- Hydridy:
+	- Bílé, krystalické látky, iontové vazby.
+	- Bouřlivě reagují s vodou za vzniku vodíku.
+	- $\ce {CaH2 }$je silné redukční činidlo a sušící prostředek organických rozpouštědel.
+- Oxidy:
+	- Bílé, krystalické látky, iontové vazby.
+	- Významný je oxid vápenatý $\ce {CaO}$:
+		- Pálené vápno
+		- Vyrábí se pálením vápence: $\ce {CaCO3 -> CaO + CO2}$
+		- Používá se ve stavebnictví a úpravě vody a potravin (E 529)
 
-• Hydroxidy:
-o Silné zásady (síla roste s protonovým číslem), ve vodě omezeně rozpustné, pohlcují
-oxid uhličitý.
-o Významný je hydroxid vápenatý Ca(OH)2:
-▪ Hašené vápno
-▪ Vzniká hašením páleného vápna (jeho reakcí s vodou): CaO + H2O ->
-Ca(OH)2
-▪ Používá se ve stavebnictví – výroba malty, jejíž tvrdnutí vystihuje reakce:
-Ca(OH)2 + CO2 -> CaCO3 + H2O
-▪ Jeho vodní suspenze se nazývá vápenné mléko
+- Hydroxidy:
+	- Silné zásady (síla roste s protonovým číslem), ve vodě omezeně rozpustné, pohlcují oxid uhličitý.
+	- Významný je hydroxid vápenatý $\ce {Ca(OH)2}$:
+		- Hašené vápno
+		- Vzniká hašením páleného vápna (jeho reakcí s vodou): $\ce {CaO + H2O -> Ca(OH)2}$
+		- Používá se ve stavebnictví – výroba malty, jejíž tvrdnutí vystihuje reakce:
+$\ce {Ca(OH)2 + CO2 -> CaCO3 + H2O}$
+		- Jeho vodní suspenze se nazývá vápenné mléko
 
-• Halogenidy:
-o Kromě fluoridů jsou ve vodě rozpustné.
-o Nejdůležitější je kazivec CaF2
-• Karbidy:
-o Vznikají přímou syntézou (vyšší teploty).
-o Iontová vazba.
-o Významný je karbid vápenatý (též acetylid vápenatý) CaC2, který se vyrábí
-v elektrických pecích a získává se z něj acetylen.
+- Halogenidy:
+	- Kromě fluoridů jsou ve vodě rozpustné.
+	- Nejdůležitější je kazivec $\ce {CaF2}$
+- Karbidy:
+	- Vznikají přímou syntézou (vyšší teploty).
+	- Iontová vazba.
+	- Významný je karbid vápenatý (též acetylid vápenatý) $\ce {CaC2}$, který se vyrábí v elektrických pecích a získává se z něj acetylen.
 
-• Uhličitany a hydrogenuhličitany:
-o Uhličitany jsou pevné a ve vodě nerozpustné.
-o Nejvýznamnější je vápenec CaCO3 (používá se jako stavební kámen a k výrobě
-cementu).
-o Hydrogenuhličitany vápenaté a hořečnaté způsobují přechodnou tvrdost vody.
-• Sírany:
-o MgSO4 je ve vodě rozpustný na rozdíl od síranů kovů alkalických zemin.
-o Sádrovec CaSO4 · 2 H2O: je přísadou do cementu.
-o Sádra (či pálená sádra) CaSO4 · 1/2 H2O: vzniká zahřátím sádrovce na 100 oC, má
-využití ve stavebnictví ale i v lékařství (sádrové obvazy).
+- Uhličitany a hydrogenuhličitany:
+	- Uhličitany jsou pevné a ve vodě nerozpustné.
+	- Nejvýznamnější je vápenec $\ce {CaCO3}$ (používá se jako stavební kámen a k výrobě cementu).
+	- Hydrogenuhličitany vápenaté a hořečnaté způsobují přechodnou tvrdost vody.
+- Sírany:
+	- $\ce {MgSO4}$ je ve vodě rozpustný na rozdíl od síranů kovů alkalických zemin.
+	- Sádrovec $\ce {CaSO4 . 2 H2O}$: je přísadou do cementu.
+	- Sádra (či pálená sádra) $\ce {CaSO4 . 1/2 H2O}$: vzniká zahřátím sádrovce na 100 °C, má využití ve stavebnictví ale i v lékařství (sádrové obvazy).
