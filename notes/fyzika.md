@@ -1012,4 +1012,6 @@ $$x = 1 - \frac {{\rho}_t} {{\rho}_k} = 1 - \frac {900} {1000} = 10 %$$
 
 Loď zatížená nákladem zvětší ponor o 1 dm. Obsah vodorovného průřezu lodi v rovině volné hladiny je 50 $m^2$. Určete hmotnost nákladu. [5 000 kg]
 
-$$m_t = V_k \cdot {\rho}_k = S \cdot h \cdot {\rho}_k = 50 \cdot 0,   1 \cdot 1000 = $$
+$\Delta h = 1 \space dm = 1 \cdot 10^{-1} \space m$
+$S = 50 \space m^2$
+$$m = V_k \cdot {\rho}_k = S \cdot \Delta h \cdot {\rho}_k = 50 \cdot 0,1 \cdot 1000 = 5000 \space kg$$

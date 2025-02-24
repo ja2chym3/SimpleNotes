@@ -1294,7 +1294,7 @@ Anoda (+ oxidace): $\ce {2 Cl- - 2 e- -> Cl2}$
 Je sám zdrojem stejnosměrného elektrického proudu. Funguje na principu spontánních redoxních dějů. Jeho základem je poločlánek – vzniká ponořením kovového plíšku (elektrody) do roztoku obsahujícího kationty daného kovu (např. Cu plíšek a roztok $\ce {CuSO4}$) na rozhraní plíšku a roztoku vzniká elektrická dvojvrstva, jelikož plíšek buď uvolňuje kationty do roztoku, nebo je z roztoku naopak přijímá, čímž vzniká kladná a záporná vrstva = elektrická dvojvrstva. Spojením dvou různých poločlánků získáváme článek (pokud je jeden z těchto poločlánků vodíkový
 (složen z $\ce {H2}$ a $\ce {H+}$ kationtů v roztoku), pak je možné změřit standardní elektrodový potenciál, podle kterého je sestavena Beketovova řada kovů). V galvanickém článku jsou přítomny polovodiče z různých kovů, které jsou ponořené v elektrolytu a vodivě spojeny. Elektrody (poločlánky):
 
-- Kov, který je katodou, má náboj kladný a probíhá na něm redukce. Na katodě se tvoří vrstva kovu z kationtů v roztoku. (Roztok se tedy nabíjí záporně a elektroda kladně.) Např. $\ce {Cu2+ + 2 e- -> Cu0}$
+- Kov, který je katodou, má náboj kladný a probíhá na něm redukce. Na katodě se tvoří vrstva kovu z kationtů v roztoku. (Roztok se tedy nabíjí záporně a elektroda kladně.) Např. $\ce {Cu2+ + 2 e- -> Cu^0}$
 - Kov, který je anodou, má náboj záporný a probíhá na něm oxidace. Kationty se uvolňují z kovové vazby a přecházejí do roztoku. (Roztok se nabíjí kladně a anoda záporně.) Např. $\ce {Zn – 2 e- -> Zn2+}$
 - Náboje katody a anody jsou tedy opačné než u elektrolýzy. Elektrony proudí z anody do katody a tím vzniká v galvanickém článku elektrický proud. Typy galvanických článků:
 - Primární galvanické články – po jejich vybití je nelze znovu použít. Redoxní reakce proběhla a nelze ji obnovit.
@@ -1519,14 +1519,15 @@ kamence (např. kamenec draselno-hlinitý $\ce{KAl(SO4)2 · 12 H2O).}$
 	- Bezbarvé, krystalické látky.
 	- Patří mezi iontové halogenidy.
 	- Dobře rozpustné ve vodě.
-	- Nejvýznamnější je $\ce{NaCl}$ (potravinářství).
+	- Nejvýznamnější je $\ce{NaCl}$ (potravinářství), sůl kamená, halit.
 	- $\ce{KCl}$ je součástí draselných hnojiv.
 	- $\ce{KBr}$ a $\ce{KI}$ sloučí jako laboratorní činidla.
 - Sulfidy
 	- Příprava přímou syntézou.
 	- Dobře rozpustné ve vodě.
 	- Hydrolyzují a roztoky reagují alkalicky.
-	- Vzdušným kyslíkem se snadno oxidují na thiosírany.
+	$\ce {Na2S (aq) + 2 H2O (l) -> H2S (g) + 2 NaOH (aq)}$
+	- Vzdušným kyslíkem se snadno oxidují na thiosírany, tj. síran, v němž je jeden jednovazný kyslík nahrazen sírou.
 - Hydroxidy
 	- Bílé, krystalické látky.
 	- Snadno rozpustné – dávají roztoky silných zásad.

@@ -308,7 +308,7 @@ Antarktida je téměř neosídlena, pouze polární vědecké výzkumné stanice
 
 Původně název římské kolonie, později se název přenesl na celý kontinent. Afrika byla poslední kontinent, který Evropský kolonialismus dobyl, byť byla blízko. Dlouho byl ve sféře vlivu jen Maghreb a pobřeží. Afrriku chránily pouště, hory, horké a vlhké klima. Afrika má rozlohu 30 mil. $km^2$, tj. třikrát větší než Evropa, pobřeží je mnohem kratší, zhruba třikrát, to ovlivnily kontinentální desky, to, že Afrika nikdy nebyla celá pokrytá ledovcem. Velká část Afr leží na severní polokouli, menší na jižní, většina pak na východní, podstatná část na Západní. Nejvyšší bod je Kilimanjaro, nejníže je Assálská prolálkina (-155 mnm.)
 
-## Povrch Afriky
+### Povrch Afriky
 
 Afrika se nachází z velké části na Africké desce a od ní se pohybující Somálská deska. Na severu se pohybuje konvergentně k Eurasijské desce, což vyzvedlo Alpy a Atlas, dále sousedí na severovýchodě Arabská deska. Geograficky nejaktivnější je oblast Východoafrické vysočiny s Kilimandžárem a o trochu nižší Etiopská vysočina. Dále jsou vysoké Dračí hory a Atlas, kde jsou dokonce menší lyžařská střediska. Ve středu severní Afriky jsou pak velmi stará prvohorní a větrem rozvrásněná vulkanická pohoří. V Africe je také několik pánví, zejména Čadská a Konžská, které dříve byly celé zaplněné vodou, dnes v nich jsou jen jezera.
 
@@ -316,29 +316,50 @@ Afrika se nachází z velké části na Africké desce a od ní se pohybující 
 
 Největší je poušť Sahara tvořná pouštěmi Uarán (Mauritánie), el-Džuf  (hranice Mali a Mauritánie), Téméré (Čad), Libyjská, Velká písečná (Z Egypt), Arabská (V Egypt) a Núbijská (SV Sudán), dále ergy Igidi, Šeš, Velký východní a Velký západní erg a další. Podstatné pouště jsou i na jihu, Namibská poušť a Kalahari. Namibské pobřeží je pokryté mlhou, studený proud.
 
-## Vodstvo Afriky
+### Vodstvo Afriky
 
 Největšími řekami v Africe jsou nejdelší Nil (1) a nejvodnatější Kongo (8), dále Šebelle (2),  Modrý Nil (3), Senegal (4), Niger (5), Šari (6), Zambezi (9), Orange (10). Ve velké části kontinentu je mnoho vody, jinde je však podnebí suché, nejextrémější je pak poušť Sahara, na jihu pak Namibie. V Africe je také mnoho velkých i malých jezer, jako jsou Viktoriino j. (11), bezodtoké Čadské j. !DO Tanganika (12) a j. Malawi (13) či vodopádů (Viktoriiny vodopády). 
 
-## Podnebí Afriky
+### Podnebí Afriky
 
 Afrika se nachází mezi subtropickými pásy, marginálně až mírnými (např. na horách v etrémech Csa). Kromě nejvyšších hor je teplota celoročně vysoká. Na úplném severu Afriky je středozemní podnebí s dlouhými, horkými, suchými léty, mírnou, deštivou zimou.
 Dále od pobřeží jsou suché subtropy, přes které vane severovýchodní suchý antipasát.
 Ve Středu se nachází tropický pás.
 
-## Vegetační pásma
+### Vegetační pásma
 
 Na úplném severu, při pobřeží a na horách se nachází v subtropických až mírných podnebích vegetace středomořského typu, táž vegetace se bude nacházet také na jižním extrému, klima je mírně, se suchými léty a velmi horkými léty. Roste zde stálezelené tvrdolisté vegetace.
 Pouště se nachází ve velmi aridních a (až na vrcholky hor) horkých podnebích. Polopouště tyto pouště obkloupují. Zde je vegetace zcela minimální.
 Savany obkopují rovníkový pás v střídavě vlhkém tropickém pásu. Je zde malé množství stromů, např. baobaby, akácie a žijí zde největší afričtí savci.
 V rovníkovém pásu se nachází tropický deštný les.
 
-## Regiony
-
 ## Severní Afrika
 
 Severní Afriku tvoří Maghreb a Mashriq. Maghreb se nachází na západě arabského světa a tvoí jej Lybie, Tunisko, Alžírsko, Maroko a Západní Sahara. Mashriq pak tvoří zbytek arabského světa. Valnou většinu povrchu Severní Afriky pokrývá poušť. Nejvyšší pohoří je Atlas (Džabal Tubkal 4165 mnm. leží  Maroku) dále zde leží stará prvohorní pohoří. Saharu tvoří regionální pouště. Písečné pouště se nazývají ergy, štěrkové jsou seríry a kamenné jsou hamady. Historicky byla Sahara mnohem vlhčí, Čadské jezero bylo plné a nacházela se zde Savana. 
 
+### Vodstvo
+
 Severní Afrika je nejsušší region v Africe. Jedinou skutečně velkou řekou je Nil, který pramení ve vlhké části Afriky a ze zdroje tedy stále přitéká dostatek vody. Zbytek řek jsou Vádí, periodicky vysychající řeky. V jeho okolí byly postaveny zavodňovací kanály, která se naplňovali s velkou vodou a umožňovala tak pěstování různých rostlin. nenachází se zde mnoho jezer, hlavně Šotty, slané jezera a pánve. Zdrojem pitné vody jsou proto hlavně oázy, například Farafra, Kuferské oázy či Kharga. Po Saharou se nahází obrovské podzemní zásoby vody. Ve snaze regulovat stav Nilu a napomáhat lodní dopravě a chránit před povodněmi se postavila Asuánská (Násirova) přehrada. 
 
-Podnebí spadá do subtropického pásu, pobřežní pásmo do cca 200 km má podnebí Středomořského typu, kde jsou suchá a horká léta, mírné a deštivě zimy. Ve středu jsou suché subtropy až tropy, teplotní rekord (snad) 58 ˚C. Místními větry jsou například scirocco, samum a chamsin, proudění kontinentálního tropického vzduchu ze Sahary na Sever.
+### Podnebí
+
+Podnebí spadá do subtropického pásu, pobřežní pásmo do cca 200 km má podnebí Středomořského typu, kde jsou suchá a horká léta, mírné a deštivě zimy. Ve středu jsou suché subtropy až tropy, teplotní rekord (snad) 58 ˚C v Azízii v Lybii. Místními větry jsou například scirocco, samum a chamsin, proudění kontinentálního tropického vzduchu ze Sahary na Sever. To vše vede k tomu, že (s výjimkou pobřeží) je klima velmi aridní. Vítry písek zanáší často k Alpám, ale i do J Ameriky
+
+### Faun a Flora
+
+Flóra je chudá a je vázaná na přírodní prostredí, nedostatek vody. Rostou zde různé halofity. V pobřežním pásmu roste středomořská vegetace, macchie, tamaryšky, oleandry, palmy, agave. V pouštích a polopouštích jsou suché trávy a keře, vázané na suchou vodu, nebo nic. Zvířata jsou závislá na vodní zdroje a jsou aktivní hlavně přes noc, ve dne bývají schovány ve stínu, pod zemí, u vody, v chladu. Vlivem nehostiného podnebí je velmi chudá. Žijí zde plazi, hadi, ještěři, hmyz, sarančata, drobní savci, fenci, tarbíci, lev berberský. Velbloudi byli zavezni z Arábie.
+
+
+### Obyvatelstvo
+
+Dnes převažuje Arabská kultura, původní obyvatelstvo bylo vytlačeno. Stále přežívají některé kočovné kmeny: Beduíni (Arabové), Berbeři (Maroko), Kabylové (Alžírsko), Tuaregové (Alžírsko a Lybie). Dnes žijí tyto kmeny hlavně usedle. Núbijci v jižním Egyptě a Súdánu jsou již černoští.
+
+Většina severní Afriky byla až do 60. let pod nadvládou Evropy. Francie v Alžírsku, Maroko, Tunisko; VB v Egyptě; Španělsko v Maroku. Dominantním náboženstvím je Islám, v Egyptě také existuje Koptská Církev.
+
+### Arabské Jaro
+
+![https://cs.wikipedia.org/wiki/Arabsk%C3%A9_jaro#/media/Soubor:Arab_Spring_and_Regional_Conflict_Map.svg]()
+
+### Suezstký průplav
+
+Je uměle vytvořeá cesta mezi Středozemním mořem a Rudým mořem. Otevřen byl v roce 1869, což vedlo k rozvoji mezinárodního obchodu. V současnosti je v Egyptě. Zkracuje cestu z Asie do Evropy o třetinu. Je dlouhý 193 km a je 200 m široký, 24 m hluboký. Nemá plavební komory, je rozdělen na dvě části velkým hořkým jezerem. Průjezd trvá kolem 10 hodin a aktuálně může projet skoro 100 lodí denně. Přes průplav proudí 12 % světového obchodu. Došlo díky němu také k rozšíření některých mořských organismů. Začal se stavět díky francouzskému inženýrovy a diplomatovi Ferdinandovi Lesseps. Již ve 13. stpřnl. existoval jistý průplav k Nilu. Vždy byla snaha jej postavit. O Suezský průplav se přela Francie, Egypt a VB. Roku 1956 byl znárodněn Násirem, týmž prezidentem, který dal postavit přehradu na Nilu, což vedlo k Suezské krizi. Dnes patří Egyptu.
