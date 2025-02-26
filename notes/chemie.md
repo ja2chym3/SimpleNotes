@@ -1500,6 +1500,8 @@ kamence (např. kamenec draselno-hlinitý $\ce{KAl(SO4)2 · 12 H2O).}$
 
 ### Využití
 
+
+
 ### Sloučeniny
 
 - Hydridy
@@ -1531,7 +1533,7 @@ kamence (např. kamenec draselno-hlinitý $\ce{KAl(SO4)2 · 12 H2O).}$
 - Hydroxidy
 	- Bílé, krystalické látky.
 	- Snadno rozpustné – dávají roztoky silných zásad.
-	- Hygroskopické, leptavé (leptají sklo i porcelán), snadno tavitelné.
+	- Hygroskopické (absorbují vodu), leptavé (leptají sklo i porcelán), snadno tavitelné (dají se využít jako elektrolyt).
 	- Silně korozivní.
 	- Mají široké využití včetně výroby mýdel (reakce zmýdelnění $\ce{R-COO-R '+ MOH ->R-COOM + R'OH}$), čištění ropných produktů a použití v laboratořích.
 	- Hydroxid sodný $\ce{NaOH}$ – vyrábí se elektrolýzou roztoku $\ce{NaCl}$:

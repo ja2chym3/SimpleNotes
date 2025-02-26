@@ -277,4 +277,14 @@ V druhé fázi Anglie získala mnohem větší oblasti. Kvůli moru musely boje 
 
 Do čela francouzských vojs se dostala Johanka z Arku, prostá venkovanka, která přišla za Karlem VII. tvrdíce mu, že má slyšiny světic a patrona francouzského Michaela. Karel ji vojsko poskytne a ona dobude Orléans a Remeš, díky čemuž může být Karel korunován. Byla roku 1430 zajata Angličany a roku 1431 byla upálena v Rouen jako čarodějnice. Psala dokonce i husitům, že poté co porazí Angličany porazí i husity. Nakonec byla v 19. století prohlášena za svatou. 
 
-Francie zvítězila a Anglii zůstalo jen Calais. Skončila bitvou u Castillonu r. 1453, v níž Francouzi zvítězili a Angličany vyhnali.
+Francie zvítězila a Anglii zůstalo jen Calais a to až do 17. st. Skončila bitvou u Castillonu r. 1453, v níž Francouzi zvítězili a Angličany vyhnali.
+
+Francie se tak mohla zkonsolidovat. Karel VII., který ještě před pár lety nemohl být korunován, kvůli obsazení Remeše. Francie má skvělé životní podmínky, dostatek jídla, rostoucí populaci a po centralizaci opět začal pravidelně vybírat daně a země prosperovala. Její armáda rostla taktéž, byla největší v Evropě. To vše mu napomohlo ke vzniku absolutismu.
+
+Anglie dopadla velmi špatně, cloumala jí občanská válka, válka růží. O trůn se přeli Lancastři s čevenou růží a Yorkové s bílou. Anglie vyčerpaná po stoleté válce tímto byla doražená. Tato válka také devastovala anglickou šlechtu. O této době pojednává Shakespearův Richard III., představitel Yorků, svedl bitvu s Jindřichem VII. Tudorem (Lancasteři), r. 1465 u Bosworthu, kde padl. Takto na trůn nastupují Tudorovci.
+
+Po válce růží angličané chtěli prosperovat, to se jim dařilo hlavně obchodem s Flandrami. Po vylmácení staré aristokracie musel povýšit novou šlechtu. Její kultura je dost odlišná. Stará šlehta odmítala pracovat či podnikat. Nová šlechta však zábrany v podnikání neměla, Anglie se tak dostala ještě dál. Došlo k zabrání společných pastvin, vytváří se ještě více vlny a začínají produkovat sukno sami. 
+
+# Gotika
+
+Vznilka ve Francii ve 12. st., k nám se dostává o sto let později a končí 15. st. u nás trochu později. Typickou gotickou stavbou je katedrála, vyznačuje se špičatostí, lomeným obloukem. Měla také jak vnější tak vnitřní opěrný systém, velké rosetty, také je okno mnohem důležitější, vytráže jsou mnohonásobně větší. Starší gotické stavby mají menší okna a méně soch. Vrcholně katedrály jsou jako z krajky. Gotické staby se začaly i omítat a malovat, barevně byla velmi velmi pestrá. Lomený oblouk měl symbolizovat ruce sepnuté k modlitbě.

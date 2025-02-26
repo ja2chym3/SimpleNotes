@@ -824,7 +824,7 @@ Kapaliny nemají narozdíl od pevných látek jistý tvar, přizpůsobí se nád
 
 ## Veličiny
 
-### Povrchové napětí $\sigma = \frac{F}{l}$ ; $[ \sigma ] = N \cdot m ^{-1}$
+### Povrchové napětí $\sigma = \frac{F}{l}$ ; $[\sigma ] = N \cdot m ^{-1}$
 
 Je skalární fyzikální veličina. Vezmeme-li drátěný rámeček s pohyblivou příčkou, v němž vytvoříme kapalinovou blánu. Blána, ve snaze zaujmout tvar s co nejmenším povrchem její velikost je přímo úměrná délce příčky.  povrchové napětí -- (sigma) podíl velikosti povrchové síly působí a délky okraje povrchové blány, na který působí kolmo v povrchu kapaliny.  Povrchové napětí závisí na druhu kapaliny, na prostředí nad volným povrchem kapaliny a je na teplotě nepřímo úměrná $\sigma \space \tilde{} \space \frac{1}{T}$.
 
@@ -914,7 +914,7 @@ $$\Delta s_2 = \frac {S_1 \Delta s_1} {S_2} = \frac {2,5 \cdot 10^{-3} \cdot 8 \
 
 ### 1-6
 
-Písty hydraulického zvedáku mají průměry 3 cm a 15 cm. Jak velkou silou musíme působit na menší píst, chceme-li zvedat těleso o hmotnosti 200 kg? [78 N]
+Písty hydraulického zvedáku mají průměry 3 cm a 15 cm. Jak velkou silou musíme působit na menší píst, chceme-li zvedat těleso o hmotnosti 200 kg?
 
 $d_1 = 3 \space cm = 3 \cdot 10^{-2} \space m$
 $d_2 = 15 \space cm = 1,5 \cdot 10^{-1} \space m$
@@ -952,7 +952,7 @@ Pokud pro těleso sečteme jeho vztalovou silu a tíhovou silu, tak zjistíme, �
 
 ### 1-7
 
-Jak velká hydrostatická tlaková síla působí na dno vodní nádrže v hloubce 4 m, je-li obsah dna 50 $m^2$? Jaký je v této hloubce hydrostatický tlak? [2 000 kN, 40 kPa]
+Jak velká hydrostatická tlaková síla působí na dno vodní nádrže v hloubce 4 m, je-li obsah dna 50 $m^2$? Jaký je v této hloubce hydrostatický tlak?
 
 $h = 4 \space m$
 $S = 50 \space m^2$
@@ -975,7 +975,7 @@ Jsou si rovny
 
 ### 1-9
 
-Jak velkou vztlakovou silou je nadlehčováno těleso o objemu 1 $dm^3$, je-li zcela ponořeno ve vodě? [10 N]
+Jak velkou vztlakovou silou je nadlehčováno těleso o objemu 1 $dm^3$, je-li zcela ponořeno ve vodě?
 
 $V_t = 1 \space dm^3 = 10^{-3} \space m^3$
 
@@ -986,7 +986,7 @@ $$F_{vz} = {\rho}_K V_t g = 1000 \cdot 10^{-3} \cdot 10 = 10 \space N$$
 
 ### 1-10
 
-Jak velkou silou zvedneme ve vodě kámen o objemu 6 $dm^3$ a hmotnosti 15 kg? [90 N]
+Jak velkou silou zvedneme ve vodě kámen o objemu 6 $dm^3$ a hmotnosti 15 kg?
 
 $m_t = 15 \space kg$
 $V = 6 \space dm^3 = 6 \cdot 10^{-3} \space m^3$
@@ -998,7 +998,7 @@ $$F = F_G - F_{vz} = g (m_t - {\rho}_aq V_t) = 10 (15 - 1000 \cdot 6 \cdot 10^{-
 
 ### 11
 
-Na vodní hladině plave ledová kra. Jaká část objemu ledové kry vyčnívá nad volný povrch vody? Hustota ledu je 900 $kg \cdot m^{−3}$, hustota vody 1 000 $kg \cdot m^{−3}$. [V /10]
+Na vodní hladině plave ledová kra. Jaká část objemu ledové kry vyčnívá nad volný povrch vody? Hustota ledu je 900 $kg \cdot m^{−3}$, hustota vody 1 000 $kg \cdot m^{−3}$.
 
 ${\rho}_t = 900 \space kg \cdot m^{−3}$
 ${\rho}_k = 1000 \space kg \cdot m^{−3}$
@@ -1010,8 +1010,22 @@ $$x = 1 - \frac {{\rho}_t} {{\rho}_k} = 1 - \frac {900} {1000} = 10 %$$
 
 ### 12
 
-Loď zatížená nákladem zvětší ponor o 1 dm. Obsah vodorovného průřezu lodi v rovině volné hladiny je 50 $m^2$. Určete hmotnost nákladu. [5 000 kg]
+Loď zatížená nákladem zvětší ponor o 1 dm. Obsah vodorovného průřezu lodi v rovině volné hladiny je 50 $m^2$. Určete hmotnost nákladu.
 
 $\Delta h = 1 \space dm = 1 \cdot 10^{-1} \space m$
 $S = 50 \space m^2$
 $$m = V_k \cdot {\rho}_k = S \cdot \Delta h \cdot {\rho}_k = 50 \cdot 0,1 \cdot 1000 = 5000 \space kg$$
+
+# Proudění
+
+Je uspořádaný pohyb molekul kapaliny, tzn. že převažuje pohyb částic v jednom směru. Existuje mnoho druhů proudění. Nejsnažším typem je proudění ustálené, neboli stacionární. K tomu dochází pokud se rychlost částic procházejících libovolně zvoleným místem proudící kapaliny s časem nemění.
+
+### Objemový průtok $Q_V = \frac {V} {t} = S \cdot v$; $[Q_V] = m^3 \cdot s^{-1}$
+
+Je podíl objemu kapaliny, která proteče průřezem trubice za dobu t, a této doby.
+
+Ideální kapalina je dokonale nestaličitelná, tudíž se molekuly nemohou přitisknout a objemový průtok je v určitém okamžiku v každém průřezu trubice stejný. Rovnice spojitosti toku, kontinuity z toho vyvozená říká:
+
+> Při utáleném proudění ideální kapaliny je součin obsahu průřezu a rychlosti proudu v každém místě trubice stejný.
+
+Tudíž máme-li v trubici zúžení, rychlost kapaliny se zvýší.
