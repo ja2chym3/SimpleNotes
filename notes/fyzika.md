@@ -1028,4 +1028,16 @@ Ideální kapalina je dokonale nestaličitelná, tudíž se molekuly nemohou př
 
 > Při utáleném proudění ideální kapaliny je součin obsahu průřezu a rychlosti proudu v každém místě trubice stejný.
 
-Tudíž máme-li v trubici zúžení, rychlost kapaliny se zvýší.
+Tudíž máme-li v trubici zúžení, rychlost kapaliny se zvýší. Zde dochází k přeměně tlakové potenciální energie na kinetickou energii
+
+### Tlaková potenciální energie $E_p = W = F \cdot l = p \cdot V$
+
+Je rovna mechanické práci, kterou vykoná tlaková síla, pokud působí na píst a přemístí jej o vzdálenost l
+
+Zákon zachování mechanické energie pro proudění ideální kapaliny ve vodorovné trubici zní
+
+$$E_k + E_p = konst.$$
+$$\frac {1} {2} \rho V v^2 + p V = konst.$$
+$$\frac {1} {2} \rho v^2 + p = konst.$$
+
+> Součet kinetické a tlakové potenciální energie kapaliny o jednostkovém objemu je ve všech částech vodorovné trubice stejný. Tlak ve větší trubici je pak větší. Ha, paradoxon, hydrodynamické paradox

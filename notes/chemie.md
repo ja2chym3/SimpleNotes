@@ -1564,28 +1564,29 @@ kamence (např. kamenec draselno-hlinitý $\ce{KAl(SO4)2 · 12 H2O).}$
 
 ## Charakteristika:
 
-- Be, Mg a kovy alkalických zemin
-- Prvky: Be, Mg, Ca, Sr, Ba a Ra
+Patří sem Be, Mg a kovy alkalických zemin, konkrétně Be, Mg, Ca, Sr, Ba a Ra. 
 - Obecná elektronová konfigurace:
 Výskyt v přírodě:
 - Pouze ve formě sloučenin (oxidační číslo II).
-- Beryllium: beryl (hlinitokřemičitan, jednou z odrůd je selený smaragd)
-- Hořčík: magnezit $\ce {MgCO3}$, dolomit $\ce {CaCO3 . MgCO3}$, součást chlorofylu
+- Beryllium: beryl (konkrétně kationt hlinitokřemičitanu, jednou z odrůd je selený smaragd)
+- Hořčík: magnezit $\ce {MgCO3}$, dolomit - jen příměs $\ce {CaCO3 . MgCO3}$,
 - Vápník: vápenec $\ce {CaCO3}$, sádrovec $\ce {CaSO4 . 2 H2O}$, anhydrit $\ce {CaSO4}$, kazivec (fluorit) $\ce {CaF2}$, v kostech a zubech jako fosforečnan vápenatý
 - Stroncium: celestin $\ce {SrSO4}$
 - Baryum: baryt (těživec) $\ce {BaSO4}$
-- Radium: všechny jeho izotopy jsou radioaktivní, je nepatrnou součástí smolince (oxid uraničitý $\ce {UO2}$)
-- Ca a Mg jsou biogenní prvky
+- Radium: všechny jeho izotopy jsou radioaktivní, je nepatrnou součástí smolince (oxid uraničitý $\ce {UO2}$), těžil se v ČR, radium vzniká rozpadem uranu
+- Ca a Mg jsou biogenní prvky - 
+	- Mg: středový atom molekuly chlorofylu, v lidském těle pohámá s pohybem svalů
+	- Ca: v kostech a zubech jako fosforečnan vápenatý
 
 ## Vlastnosti:
 
 - Stříbrolesklé, neušlechtilé kovy.
-- Tvrdší, méně reaktivní a s vyšší hustotou než s1-prvky.
+- Tvrdší, méně reaktivní a s vyšší hustotou než s1-prvky, nicméně pořád měkké a reaktivní a lehké v porovnání se vším. 
 
-- Kovy alkalických zemin tvoří převážně iontové vazby, s vodou poskytují hydroxidy a vodík.
-- Oxidační číslo výhradně II.
+- Kovy alkalických zemin tvoří převážně iontové vazby, jako hydridy ne tak úplně, s vodou poskytují hydroxidy a vodík.
+- Oxidační číslo výhradně II, nemohou mít jen jeden elektron ve valenční vrstvě, byly by pak nestabilní.
 - Rozpustné soli stroncia a barya jsou jedovaté.
-- Beryllium a hořčík se od zbytku skupiny svými vlastnostmi liší (vyšší elektronegativita).
+- Beryllium a hořčík se od zbytku skupiny svými vlastnostmi liší, mají vyšší elektronegativitu.
 
 ## Výroba
 
@@ -1597,19 +1598,19 @@ Výskyt v přírodě:
 Sloučeniny kovů alkalických zemin:
 - Hydridy:
 	- Bílé, krystalické látky, iontové vazby.
-	- Bouřlivě reagují s vodou za vzniku vodíku.
+	- Bouřlivě reagují s vodou za vzniku vodíku a hydroxidu vápenatého.
 	- $\ce {CaH2 }$je silné redukční činidlo a sušící prostředek organických rozpouštědel.
 - Oxidy:
 	- Bílé, krystalické látky, iontové vazby.
 	- Významný je oxid vápenatý $\ce {CaO}$:
-		- Pálené vápno
+		- Kvůli způspbu vzniku se mu triviálně říká pálené vápno
 		- Vyrábí se pálením vápence: $\ce {CaCO3 -> CaO + CO2}$
 		- Používá se ve stavebnictví a úpravě vody a potravin (E 529)
 
 - Hydroxidy:
 	- Silné zásady (síla roste s protonovým číslem), ve vodě omezeně rozpustné, pohlcují oxid uhličitý.
 	- Významný je hydroxid vápenatý $\ce {Ca(OH)2}$:
-		- Hašené vápno
+		- Triviálně hašené vápno
 		- Vzniká hašením páleného vápna (jeho reakcí s vodou): $\ce {CaO + H2O -> Ca(OH)2}$
 		- Používá se ve stavebnictví – výroba malty, jejíž tvrdnutí vystihuje reakce:
 $\ce {Ca(OH)2 + CO2 -> CaCO3 + H2O}$
@@ -1619,15 +1620,256 @@ $\ce {Ca(OH)2 + CO2 -> CaCO3 + H2O}$
 	- Kromě fluoridů jsou ve vodě rozpustné.
 	- Nejdůležitější je kazivec $\ce {CaF2}$
 - Karbidy:
-	- Vznikají přímou syntézou (vyšší teploty).
-	- Iontová vazba.
-	- Významný je karbid vápenatý (též acetylid vápenatý) $\ce {CaC2}$, který se vyrábí v elektrických pecích a získává se z něj acetylen.
+	- Vznikají přímou syntézou za vyšší teploty.
+	- Má vlastnosti iontové vazbz, i když na stupnici nevychází
+	- Významný je karbid vápenatý (též acetylid vápenatý, též karbid vápníku) $\ce {CaC2}$, který se vyrábí v elektrických pecích a získává se z něj acetylen.
+		- 
 
 - Uhličitany a hydrogenuhličitany:
 	- Uhličitany jsou pevné a ve vodě nerozpustné.
 	- Nejvýznamnější je vápenec $\ce {CaCO3}$ (používá se jako stavební kámen a k výrobě cementu).
-	- Hydrogenuhličitany vápenaté a hořečnaté způsobují přechodnou tvrdost vody.
+	- Hydrogenuhličitany vápenaté a hořečnaté způsobují přechodnou tvrdost vody, po převaření se mění v uhličitany, které jsou nerozustné (tzv. vodní kámen)
 - Sírany:
 	- $\ce {MgSO4}$ je ve vodě rozpustný na rozdíl od síranů kovů alkalických zemin.
 	- Sádrovec $\ce {CaSO4 . 2 H2O}$: je přísadou do cementu.
 	- Sádra (či pálená sádra) $\ce {CaSO4 . 1/2 H2O}$: vzniká zahřátím sádrovce na 100 °C, má využití ve stavebnictví ale i v lékařství (sádrové obvazy).
+	- trvalá tvrdost vody 
+
+	Komplexní sloučeniny
+
+Jiné názvy: komplexy nebo koordinační sloučeniny – díky přítomnosti minimálně jedné
+koordinačně-kovalentní vazby (donorakceptorové). Donor je ve vazbě atom s volným elektronovým
+párem. Akceptor je atom s vakantním (prázdným) orbitalem, do kterého je přijat volný elektronový
+pár. U těchto sloučenin neodpovídá oxidační číslo počtu vytvořených vazeb.
+Každý komplex má středový neboli centrální atom. Nejčastěji se jedná o d-prvek, který je obklopen
+
+ligandy. Těch může být různý počet a jsou vázány na centrální atom pomocí koordinačně-
+kovalentní vazby (počet jednovazných ligandů určuje koordinační číslo).
+
+Vlastnosti komplexních sloučenin
+Typickou vlastností komplexů je jejich barevnost. Ligandy způsobují štěpení d-orbitalů (část
+orbitalů má nižší energii a část ji má vyšší, tento jen vysvětluje teorie ligandového pole). Absorpcí
+energie (jejíž vlnová délka odpovídá viditelné oblasti světla) dochází k excitaci elektronu do
+orbitalu s vyšší energií. Jelikož komplex pohltil tuto energii, tak se nám jeví jako barevný – vidíme
+odpovídající doplňkovou (komplementární) barvu k barvě, která byla pohlcena (např. pokud
+elektron pro excitaci využil energii s vlnovou délkou odpovídající zelené barvě, pak se nám na
+pohled jeví jako červený). Příklady:
+• Cu2+ je bezbarvý, zatímco [Cu(H2O)4]
+
+2+ má světle modrou barvu
+
+• Žlutá krevní sůl K4[Fe(CN)6]
+• Červená krevní sůl K3[Fe(CN)6]
+• Hemoglobin a chlorofyl
+Rozpustnost – vznikem komplexu může dojít k rozpuštění sraženiny (např. přidáním amoniaku ke
+sraženině AgCl, vzniká roztok [Ag(NH3)2]Cl).
+Vodivosti – tvorbou komplexních částic dochází ke snížení vodivosti roztoku.
+Využití komplexních sloučenin
+• Výroba kovů, plastů a třaskavin
+• Barvířství
+• Jako katalyzátory
+• Jako léčiva a ke znehodnocení jedů (kyanidů)
+• Analytická chemie (komplexometrické titrace)
+Typy komplexních sloučenin
+Poznávacím znamením komplexní sloučeniny je hranatá závorka. Varianty:
+• [celá sloučenina] – komplexem je celá sloučenina nacházející se v hranaté závorce.
+• [kationt]aniont nebo jen [kationt]+
+
+– komplexní je pouze kationt (je v hranaté závorce).
+
+• kationt[aniont] nebo jen [aniont]–
+
+– komplexní je pouze aniont.
+
+• [kationt][aniont] – komplexní sloučenina se skládá z kationtu a aniontu, kde jsou obě částice
+komplexem (přítomny dvě hranaté závorky, tedy i dva centrální atomy).
+
+Ligandy
+Neutrální ligandy
+(bez náboje)
+
+Záporné ligandy
+
+H
+–
+hydrido NO2
+–
+nitro SO4
+2–
+sulfato
+
+H2O aqua Cl–
+
+chlorido NO3
+–
+nitrato S
+2–
+
+thio
+
+NH3 ammin Br–
+
+bromido OH–
+
+hydroxido (CN) –
+
+kyanido
+
+CO karbonyl I
+–
+jodido O
+2–
+oxo (SCN) –
+
+NO nitrosyl F
+–
+fluorido (O2)
+2–
+peroxido thiokyanato (rhodanido)
+
+Názvosloví
+Postup tvorby odpovídá ostatním sloučeninám. Jako první se pojmenuje aniont (podstatné jméno)
+a jako druhý se pojmenuje kationt (přídavné jméno).
+Pořadí v molekule:
+• Centrální atom je v hranaté závorce vždy uvedený jeho první (pojmenujeme ho v rámci
+závorky až jako poslední)
+• Ligandy jsou uváděny v abecedním pořadí (bez ohledu na číselné předpony) – jednotlivé
+ligandy jsou od sebe odděleny pomlčkou (pomlčka není u posledního ligandu).
+Koncovky:
+• Látky s kladným nábojem používají běžné zakončení: -ný, -natý atd.
+• Látky se záporným nábojem používají obvykle koncovku -id (např. chlorid, sulfid atd.),
+nebo názvy odpovídajících solí s koncovkou -an (např. síran). Pokud se jedná o ligandy
+(názvy vis výše).
+• Výjimka: pokud komplex tvoří pouze aniont bez kationtu, pak se pojmenování aniontu
+ukončí příponou -ový, která se zařadí za použitou koncovku ox. čísla u solí → +I -nanový,
++II -natanový, +II -itanový, +IV -ičitanový, +V -(e)ičnanový, +VI -anový,
++VII -istanový, +VIII -ičelanový
+Předpony:
+• Pro vyjádření množství ligandů se využívají předpony: di-, tri-, tetra-, penta-, hexa- atd.
+• V případě organických ligandů se využívají předpony: bis-, tris-, tetrakis- atd.
+Postup:
+1. Určíme oxidační čísla:
+a. Pro běžné anionty nebo kationty
+b. Podle nich pro celou hranatou závorku (celá molekula musí být neutrální)
+c. Určíme oxidační čísla ligandů (vis výše)
+d. Dopočítáme oxidační číslo centrálního atomu (tak, aby odpovídalo oxidační číslo
+celé závorky)
+
+2. Sestavíme podstatné jméno (pojmenujeme aniont) – pokud se jedná o komplex, pak je
+podstatné jméno tvořeno názvy ligandů a poté centrálního atomu (koncovka jako u solí).
+3. Sestavíme přídavné jméno (pojmenujeme kationt) – pokud se jedná o komplex, pak je
+přídavné jméno tvořeno názvy ligandů a poté nakonec centrálního atomu (koncovka -ný
+atd.)
+
+Příklad 1. (NH4)2[PtCl6]
+1a) Přítomný je amonný kationt NH4 s oxidačním číslem +I → (NH4)2
++I[PtCl6]
+
+1b) Na komplex vychází oxidační číslo -II → (NH4)2
++I[PtCl6]
+-II
+1c) Přítomný jen jeden ligand Cl, který má oxidační číslo -I → (NH4)2
++I[PtCl6
+-I
+]
+-II
+
+1d) Aby měla celá závorka oxidační číslo -II, pak na platinu vychází oxidační číslo +IV →
+(NH4)2
++I[Pt+IVCl6
+-I
+]
+-II
+
+2) Aniont: ligand je přítomen 6x, proto předpona hexa-, jedná se o ligand chlorido, platina
+má oxidační číslo +IV bude mít koncovku -ičitý v podstatném jméně, takže -ičitan →
+hexachloridoplatičitan
+3) Kationt: jedná se o amonný kationt (není to komplex, takže se nepoužívají žádné číselné
+předpony) → hexachloridoplatičitan amonný
+Příklad 2. [Ag(NH3)2]Cl
+1) Cl je chlorid s ox. č. -I, komplex má tedy celkem +I, NH3 je neutrální ligand a má tedy
+nulu, takže na Ag vychází ox. č. +I → [Ag+I(NH3)2
+0
+]
++ICl-I
+
+2) Aniont: pouze Cl-I → chlorid
+3) Kationt: komplex kde je 2x ammin (proto předpona di-) a stříbro s ox. č. +I, tedy -ný →
+chlorid diamminstříbrný
+Příklad 3. [Fe(H2O)4Cl2]
++
+
+1) Aniont není přítomný, takže ox. č. komplexu odpovídá náboji a je +I, ligandy jsou voda
+(neutrální ligand, tedy 0) a chlor (chlorido) s -I, na železo proto vychází ox. č. +III →
+[Fe+III(H2O)4
+0Cl2
+-I
+]
++
+
+2) Aniont: není, místo názvu se tedy použije slovo „kationt“ či „kation“
+3) Kationt: komplex, kde je prvním ligandem voda (aqua), která je tam 4x (tetra-), a tím
+druhým, který bude od vody oddělen pomlčkou, je chlor (chlorido), který je tam 2x (di-),
+ligandy budou pojmenovány v tomto pořadí (abecední) a poslední část názvu bude tvořit
+železo s ox. č. +III (-itý) → kationt tetraaqua-dichloridoželezitý
+Příklad 4. [Ag(CN)2]
+–
+
+1) Kationt není přítomen, takže komplex má ox. č. odpovídající náboji (-I), ligand CN má
+ox. č. -I, na stříbro tedy vychází ox. č. +I →
+2) Aniont: komplex s ligandem CN (kyanido), který je zde 2x (di-), dále je zde stříbro s ox.
+č. +I (-ný)
+3) Kationt: není přítomen, podstatným jménem bude výjimečně slovo „aniont“ či „anion“
+a samotné pojmenování aniontu bude zakončeno příponou pro anionty (-ový) → aniont
+dikyanidostříbrnanový
+Poznámka: označení „kationt“ a „aniont“ lze uvádět také na konci (např. dikyanidostříbrnanový
+aniont). Pokud je komplex neutrální [celá sloučenina], pak se označuje slovem „komplex“.
+
+Cvičení – názvosloví komplexů (ze vzorce název):
+
+1. [Co(NH3)2(OH)]SO3
+
+2. [Cu(NH3)5NO3]CO3
+
+3. H[Cr(H2O)Cl4]
+
+4. Na[B(NO3)4]
+
+5. K2[Pt(NO2)4]
+Přepis z názvu do vzorce:
+1) Přesně podle názvu sestavíme komplex (vnitřek hranaté závorky)
+2) Určíme oxidační čísla a vypočítáme oxidační číslo celého komplexu
+3) Druhou část molekuly neboli kompenzující iont (aniont či kationt, který není komplexem),
+určíme z názvu a jeho počet v molekule dopočítáme pomocí oxidačního čísla komplexu
+(součet oxidačních čísel musí být roven nule).
+Příklad. 5 dusičnan hexaamminkobaltitý
+1) Název komplexu je hexamminkobaltití, v hranaté závorce bude jako první uveden
+centrální atom (Co) a dále ligand ammin (NH3), který je zde 6x (hexa) → [Co(NH3)6]
+2) Z koncovky -itý známe ox. č. kobaltu +III, u ligandu NH3 víme, že má ox. č. 0, takže
+celý komplex bude mít ox. č. +III (jedná se o kationt, jak víme už z názvu – komplex je
+přídavné jméno) → [Co+III(NH3)6
+0
+]
++III
+
+3) Aniont je dusičnan, což je sůl odvozená od kyseliny dusičné (HNO3), má ox. č. -I, jelikož
+má komplex ox. č. +III, tak musíme dusičnan vzít 3x→ [Co(NH3)6](NO3)3
+
+Cvičení – názvosloví komplexů (z názvu vzorec):
+1. Aniont tetrahydroxidoolovnatanový
+
+2. Hexachloridocíničitan amonný
+
+3. Ammin-trichloridoplatnatan draselný
+
+4. Komplex triammin-trichloridokobaltitý
+
+5. Tetrabromidoplatnatan diamminměďnatý
+
+
+# Rtuť
+
+- Nachází se ve 12. skupině 6. periody, protonové číslo 80
+- Její elektronová konfigurace je $[\ce {Xe}] 4f^{14} \space 5d^{10} \space 6s^{2}$
+- Má elektronegativitu 2.00	
+- Dosahuje atomových čísel od 170 s poločasem rozpadu 310 µs po 216 s poločasem rozpadu kolem vteřiny stabilní však je asi rtuť 196, 198 až 202 a 204
