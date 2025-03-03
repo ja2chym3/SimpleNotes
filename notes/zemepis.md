@@ -345,7 +345,7 @@ Severní Afrika je nejsušší region v Africe. Jedinou skutečně velkou řekou
 
 Podnebí spadá do subtropického pásu, pobřežní pásmo do cca 200 km má podnebí Středomořského typu, kde jsou suchá a horká léta, mírné a deštivě zimy. Ve středu jsou suché subtropy až tropy, teplotní rekord (snad) 58 ˚C v Azízii v Lybii. Místními větry jsou například scirocco, samum a chamsin, proudění kontinentálního tropického vzduchu ze Sahary na Sever. To vše vede k tomu, že (s výjimkou pobřeží) je klima velmi aridní. Vítry písek zanáší často k Alpám, ale i do J Ameriky
 
-### Faun a Flora
+### Fauna a Flora
 
 Flóra je chudá a je vázaná na přírodní prostredí, nedostatek vody. Rostou zde různé halofity. V pobřežním pásmu roste středomořská vegetace, macchie, tamaryšky, oleandry, palmy, agave. V pouštích a polopouštích jsou suché trávy a keře, vázané na suchou vodu, nebo nic. Zvířata jsou závislá na vodní zdroje a jsou aktivní hlavně přes noc, ve dne bývají schovány ve stínu, pod zemí, u vody, v chladu. Vlivem nehostiného podnebí je velmi chudá. Žijí zde plazi, hadi, ještěři, hmyz, sarančata, drobní savci, fenci, tarbíci, lev berberský. Velbloudi byli zavezni z Arábie.
 
@@ -359,7 +359,32 @@ Většina severní Afriky byla až do 60. let pod nadvládou Evropy. Francie v A
 ### Arabské Jaro
 
 ![https://cs.wikipedia.org/wiki/Arabsk%C3%A9_jaro#/media/Soubor:Arab_Spring_and_Regional_Conflict_Map.svg]()
+Jednalo se o vlnu protestů proti diktátorům, sociální a politické situaci v Tunisku. Protesty začaly okolo vánoc 2010 a vrcholily na jaře 2011, proto Arabské jaro.
+
 
 ### Suezstký průplav
 
 Je uměle vytvořeá cesta mezi Středozemním mořem a Rudým mořem. Otevřen byl v roce 1869, což vedlo k rozvoji mezinárodního obchodu. V současnosti je v Egyptě. Zkracuje cestu z Asie do Evropy o třetinu. Je dlouhý 193 km a je 200 m široký, 24 m hluboký. Nemá plavební komory, je rozdělen na dvě části velkým hořkým jezerem. Průjezd trvá kolem 10 hodin a aktuálně může projet skoro 100 lodí denně. Přes průplav proudí 12 % světového obchodu. Došlo díky němu také k rozšíření některých mořských organismů. Začal se stavět díky francouzskému inženýrovy a diplomatovi Ferdinandovi Lesseps. Již ve 13. stpřnl. existoval jistý průplav k Nilu. Vždy byla snaha jej postavit. O Suezský průplav se přela Francie, Egypt a VB. Roku 1956 byl znárodněn Násirem, týmž prezidentem, který dal postavit přehradu na Nilu, což vedlo k Suezské krizi. Dnes patří Egyptu.
+
+### Hospodářství 
+Státy severní afriky jsou ekonomicky nejrozvinutější region v Africe. První sektor je rozvinut hlavně na pobřeží a v povodí řek. Na severním pobřeží se pěstují olivy, datle, fíky... V povodí převážně Nilu
+- chov ovcí a koz 
+- v povodí nilu vodní buvol, používají se k tahu
+velbloud jednohrbý (dromedár)
+
+
+### Průmysl
+NS je region bbohatý na ropu, zemní plyn a fosfáty. Ropa a zemní plyn se těží nejvíce v Alžírsku, Lybii, Maroku a Egyptě. Fosfáty pak v Maroku a Tunisku. Rozvinutá průmyslová odvětví se koncentrují víceméně jen ve velkých městech a patří mezi ně např. potravinářský, chemický či textilní průmysl. 
+
+
+### Doprava, služby, cestovní ruch
+doprava je námořní, mezi Afrikou - Evropou plují trajekty. Suezský průplav se využívá. 
+
+Významný podíl příjmu regionů tvoří turismus. Turistické oblasti: 
+Maroko: Ribat, Casablanca, Marakéš, historická jádra měst - tzv. mediny 
+Egypt: Údolí králů, Údolí královen, fragmenty slavného Kartága, chrámy v Etfu, chrámový komplex Karnak v Luxoru
+
+
+### Státy Sahelu
+Sahel znamená z arabštiny "břeh". Sahel je oblast v Africe na jižním okraji Sahary. Zahrnuje pás polopouští a savan táhnoucích se napříč kontinentem od Z k V v šířce 300 – 500 km. Rozděluje
+Státy Sahelu: Senegal, Mauritánie, Mali, Niger, Čad, Súdán, Eritrea (Sahel zasahuje i do dalších států jako jsou Burkina Faso, Nigérie, Etiopie). 
