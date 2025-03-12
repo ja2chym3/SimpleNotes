@@ -820,7 +820,7 @@ $$\Delta V = 0,75 \cdot 3 \cdot 2,4 \cdot 10^{-5} \cdot 55 = 3 \space ml$$
 
 ## Vlastnosti kapalin
 
-Kapaliny nemají narozdíl od pevných látek jistý tvar, přizpůsobí se nádobě, ve které je, avšak zachovává si svůj objem. Molekuly se totiž přitahují a drží se při sobě, avšak nejsou s to udržet tvar, jsou slabší protože jsou od sebe částice dále. Kapalina je také spolu s plyny tekutá. Kapaliny jsou velmi málo stlačitelné. V klidu vytvářejí v tíhovém poli Země vodorovnou hladinu. Volný povrch kapaliny se chová jako tenká pružná blána, za to může povrchové napětí (ne vodíkové můstky). V rovnovážném stavu kapalina daného objemu zaujímá tvar s nejmenším obsahem povrchu, tj. tvar koule.
+Kapaliny nemají narozdíl od pevných látek jistý tvar, přizpůsobí se nádobě, ve které jsou, avšak zachovává si svůj objem. Molekuly se totiž přitahují a drží se při sobě, avšak nejsou s to udržet tvar, jsou slabší protože jsou od sebe částice dále. Kapalina je také spolu s plyny tekutá. Kapaliny jsou velmi málo stlačitelné. V klidu vytvářejí v tíhovém poli Země vodorovnou hladinu. Volný povrch kapaliny se chová jako tenká pružná blána, za to může povrchové napětí (ne vodíkové můstky). V rovnovážném stavu kapalina daného objemu zaujímá tvar s nejmenším obsahem povrchu, tj. tvar koule.
 
 ## Veličiny
 
@@ -932,15 +932,15 @@ $$F_h = m g = \rho S h g$$
 
 Velikost síly je nezávislá na tvaru nádoby, pokud jsou její hrany svislé, reakce stěn na tlak se vyruší a tlak je roven tíhové síle; pokud stěny nejsou rovnoběžné, reakce stěny na tlak se sečtou a výslednice bude kolmá ke dnu, u nádoby s větším hrdlem, budou tíhovou sílu odlehčovat; u nádoby s menším hrdlem, se k ní budou přičítat. Viz hyrostatické paradoxon.
 
-Hydrostatická tlaková síla vyvolává na ploše, na níž působí, hydrostatický tlak $p_h$:
+> Hydrostatická tlaková síla vyvolává na ploše, na níž působí, hydrostatický tlak $p_h$:
 
-> $p_h = \rho h g$
+$$p_h = \rho h g$$
 
 ## Vztlaková síla
 
 Na libovolné ponořené těleso působí hydrostatické tlakové síly. Jejich součtem je vztrlaková síla $\vec{F_{vz}}$, která míří svisle vzhůru.
 
-> $\vec{F_{vz}} = {\rho}_K V_t g$
+$$\vec{F_{vz}} = {\rho}_K V_t g$$
 
 Toto říká Archimédův zákon ze 3. stpřnl.
 
@@ -1028,16 +1028,59 @@ Ideální kapalina je dokonale nestaličitelná, tudíž se molekuly nemohou př
 
 > Při utáleném proudění ideální kapaliny je součin obsahu průřezu a rychlosti proudu v každém místě trubice stejný.
 
-Tudíž máme-li v trubici zúžení, rychlost kapaliny se zvýší. Zde dochází k přeměně tlakové potenciální energie na kinetickou energii
+Tudíž máme-li v trubici zúžení, rychlost kapaliny se zvýší.
 
-### Tlaková potenciální energie $E_p = W = F \cdot l = p \cdot V$
+Z Bernouliho rovnice poté plyne, že se tlak sníží (sic!).
 
-Je rovna mechanické práci, kterou vykoná tlaková síla, pokud působí na píst a přemístí jej o vzdálenost l
+$\frac {1} {2} \rho v^2 + p \cdot V$ je konstantní
 
-Zákon zachování mechanické energie pro proudění ideální kapaliny ve vodorovné trubici zní
+## Příklady
 
-$$E_k + E_p = konst.$$
-$$\frac {1} {2} \rho V v^2 + p V = konst.$$
-$$\frac {1} {2} \rho v^2 + p = konst.$$
+### 1
 
-> Součet kinetické a tlakové potenciální energie kapaliny o jednostkovém objemu je ve všech částech vodorovné trubice stejný. Tlak ve větší trubici je pak větší. Ha, paradoxon, hydrodynamické paradox
+Určete objemový průtok vody rourou s průřezem o obsahu $20 \space dm^{2}$ při rychlosti proudu $5 \space m \cdot s^{-1}$.
+
+$S = 20 \space dm^{2} = 0,2 \space m^2$
+$v = 5 \space m \cdot s^{-1}$
+$Q_V = \space ?$
+
+$$Q_V = S \cdot v = 0,2 \cdot 5 = 1 \space m^{3} \cdot s^{-1}$$
+
+### 2
+
+Průřezem potrubí o obsahu $500 \space cm^{2}$ proteče za 10 minut 30 000 litrů vody. Určete objemový průtok a rychlost proudící vody.
+
+$S = 500 \space cm^{2} = 5 \cdot 10^{-2} \space m^{2}$
+$t = 10 \space min = 600 \space s$
+$V = 30 000 \space l = 30 \space m^{3}$
+
+$$Q_V = \frac {V} {t} = \frac {30} {600} = 0,05 \space m^{3} \cdot s^{-1}$$
+$$v = \frac {V} {S \cdot t} = \frac {30} {5 \cdot 10^{-2} \cdot 600} = 1 \space m \cdot s^{s-1}$$
+
+### 3
+
+Hadicí s průřezem o obsahu $12 \space cm^{2}$ protéká voda rychlostí $1 \spce m \cdot s^{-1}$. Jak velkou rychlostí tryská voda ze zúženého nátrubku, jehož průřez má obsah $0,6 \space cm^{2}$.
+
+$S_1 = 12 \space cm^{2}
+$v_1 = 1 \space m \cdot s^{-1}$
+$S_2 = 0,6 \space cm^{2}$
+$v_2 = \space ?$
+
+$$S_1 \cdot v_1 = S_2 \cdot v_2$$
+$$v_2 = \frac {S_1 \cdot v_1} {S_2} = 20 \space m \cdot s^{-1}$$
+
+### 4
+
+Vodovodním potrubím s průřezem o obsahu $50 \space cm^{2}$ proudí voda rychlostí $4 \space m \cdot s^{-1}$ při tlaku $200 \space kPa$. Určete rychlost a tlak vody v zúženém průřezu o obsahu $10 \space cm^{2}$
+
+$S_1 = 50 \space cm^{2}$
+$v_1 = 4 \space m \cdot s^{-1}$
+$p_1 = 2 \cdot 10^5 \space Pa$
+$S_2 = 10 \space cm^{2}$
+$v_2 = \space ?$
+$p_2 = \space ?$
+
+$$v_2 = v_1 \cdot \frac {S_1} {S_2} = 50 \cdot \frac {50}{10} = 250 \space m \cdot s^{-1}$$
+$$\frac {1} {2} \rho v_1^2 + p_1 \cdot V_1 = \frac {1} {2} \rho v_2^2 + p_2 \cdot V_2$$
+$$p_2 = \frac {1} {2} \rho v_1^2 (1 - \frac {S_1} {S_2}) (1 + \frac {S_1} {S_2}) + p_1$$
+$$p_2 = \frac {1} {2} \cdot 1000 \cdot 4^2 (1 - \frac {50} {10}) (1 + \frac {50} {10}) + 2 \cdot 10^5 = 8 \space kPa$$

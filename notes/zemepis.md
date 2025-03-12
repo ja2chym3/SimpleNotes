@@ -385,6 +385,13 @@ Maroko: Ribat, Casablanca, Marakéš, historická jádra měst - tzv. mediny
 Egypt: Údolí králů, Údolí královen, fragmenty slavného Kartága, chrámy v Etfu, chrámový komplex Karnak v Luxoru
 
 
-### Státy Sahelu
+## Sahel
+
 Sahel znamená z arabštiny "břeh". Sahel je oblast v Africe na jižním okraji Sahary. Zahrnuje pás polopouští a savan táhnoucích se napříč kontinentem od Z k V v šířce 300 – 500 km. Rozděluje
 Státy Sahelu: Senegal, Mauritánie, Mali, Niger, Čad, Súdán, Eritrea (Sahel zasahuje i do dalších států jako jsou Burkina Faso, Nigérie, Etiopie). 
+
+Problémy Sahelu jsou dezertifikace, nedostatek vody, místa, surovin. Etnické problémy -- hranice států jsou náhodné. 
+
+### Hospodářství Sahelu
+
+HDP PPP se pohybuje pod 5 000 USD na obyvatele. Není zde mnoho velkých center, jen Dakar, Chartrúm a Addis-Abeba a rozvinutější Nigérie. V Súdánu a Nigerii jsou podstatné zdroje nerostných surovin, zejména ropy. Ekonomiky jsou zde velmi chudé. Obyvatelstvo je z větší části negramotné a nevzdělané což také znemožňuje vznik složitějšího hospodářství. Nedostatek vody a půdy také nepomáhá. Obyvatele sužují nemoce a špatné zdravotnictví. Zemědělství je založené na kočovném chovu. Turismus je zde z bezpečnostních důvodů nízký. Na některých místech jsou také zdroje uranu a drahých kovů. Sahel je z Afriky naprosto nejchudší
